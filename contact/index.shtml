@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>1230james's Website - Contact Me</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <div id="content">
+        <section>
+            <h2 class="big textcenter">Contact Me</h2> <!-- Putting it here to silence HTML validator -->
+            <p class="textcenter">Listed below are various methods to get into touch with me.</p>
+            <p class="textcenter">Methods are listed in order of preference from top to bottom, with the most preferred method at the top.</p>
+        </section>
+        <hr/>
+        <section>
+            <h3>Email</h3>
+            <p><a id="mailto" rel="external" href="">Click here</a> to send a message.</p>
+            <p>Email is being sent to a "buffer" address to protect my primary email. If I feel it is appropriate, then I will move correspondence to my primary email, so do not be surprised if the reply you get is from a different address. I will likely (although it is not guaranteed) send an email from the buffer address to inform you that the conversation is moving to my primary address with my primary address listed for you to verify.</p>
+            <p>Please note that email responses are <em>not guaranteed;</em> that is, I may read your email, but a reply is not guaranteed.</p>
+            <p>If you already have my primary email address, you are free to contact me through that address.</p>
+            
+            <h3>Discord</h3>
+            <p><a rel="external" href="https://discord.gg/MvEHdmc">Click here</a> to join my general purpose Discord server (please beware that there is very little activity, but I am still actively watching it).</p>
+            <p>For anything related to Half Past Noon, it is recommended that you join the Half Past Noon Discord server, which can be found on our <a rel="external" href="http://www.roblox.com/groups/5093769/--">Roblox group page</a>.</p>
+            
+            <h3>Telephone</h3>
+            <p>If, somehow, you have my telephone number (through my résumé, perhaps), then <strong>please refrain from attempting to contact me via voice unless it is absolutely urgent.</strong> I reject virtually every call.</p>
+            <p>If you absolutely must contact me via phone, please keep calling multiple times in a row. If I notice that the same number is persistent on calling me, it will be proof to me that the 500 millionth robo-caller isn't the one trying to call me.</p>
+        </section>
+    </div>
+    
+    <footer>
+        <!--#if expr="%{DOCUMENT_ROOT} == '/home/1230james/website'" -->
+            <!--#include virtual="/footer.html" -->
+        <!--#else -->
+            <!--#include virtual="/devfooter.html" -->
+        <!--#endif -->
+    </footer>
+</body>
+
+</html>

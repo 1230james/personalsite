@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>1230james's Website - About Me</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <div id="content">
+        <h2 class="big textcenter">About Me</h2>
+        <section>
+            <h2 class="textcenter">Overview</h2>
+            <p class="indent">My name is James "1230james" Hyun, and I'm a hobbyist programmer and an undergraduate at the University of Georgia majoring in computer science. I've had a fascination for computers ever since I was young, and this especially took off toward the end of middle school. With the help of a friend, I began to pick up programming as a hobby, creating several chat bots for <a rel="external" href="https://www.discordapp.com">Discord</a>. Most of these bots are still used to this day and are being used by over two thousand Discord servers. Today, I am in a <a href="/hpn">joint game development venture with a close friend</a> while pursuing my studies in computer science.</p>
+            <p class="indent">In high school, I greatly expanded my experience in computer science. In 10th grade, a classmate and I represented our school in the <i>Game On!</i> at the 2017 Division C Science Olympiad Regionals hosted at the University of Georgia, and we placed in 2nd. In 12th grade, I was part of my school's team for the <i>Codebusters</i> event at the 2019 Regionals at UGA where we placed in 3rd. Additionally, I obtained an internship at a software development firm in my local area, where I was tasked with collaborating with a small team to develop a Java-based Android application for a client in New York.</p>
+        </section>
+        <hr/>
+        <section>
+            <h2 class="textcenter">Education</h2>
+            <ul>
+                <li>Post-Secondary</li>
+                <li class="nobullet"><ul>
+                    <li>University of Georgia</li>
+                    <li>Computer Science undergraduate</li>
+                    <li>Anticipated Graduation: May 2023</li>
+                </ul></li>
+                <li>Secondary</li>
+                <li class="nobullet"><ul>
+                    <li>Weighted GPA: 4.27</li>
+                    <li>Top 6% of Class of 2019</li>
+                </ul></li>
+            </ul>
+        </section>
+        <section>
+            <h2 class="textcenter">Skills and Certifications</h2>
+            <ul>
+                <li>Proficiency in Java, JavaScript, and Lua</li>
+                <li>CIW Site Development Associate</li>
+                <li>Microsoft Office Specialist for Microsoft Office Word</li>
+            </ul>
+        </section>
+        <section>
+            <h2 class="textcenter">Experience</h2>
+            <ul>
+                <li>Professional</li>
+                <li class="nobullet"><ul> <!-- oh jeez this is getting messy -->
+                    <li><b>GraBird Software Development, Inc.</b></li>
+                    <li class="nobullet"><ul>
+                        <li>Contract Programming Intern</li>
+                        <li>Sept. 2018 - May 2019</li>
+                    </ul></li>
+                </ul></li>
+                
+                <li>Volunteer</li>
+                <li class="nobullet"><ul>
+                    <li><b>Forsyth County Public Library</b></li>
+                    <li class="nobullet"><ul>
+                        <li>Summer Volunteer</li>
+                        <li>Summers of 2017 and 2018</li>
+                        <li>Worked with supervising STEM-related activities for children.</li>
+                        <li>Assisted with teaching middle school students programming with Lego Mindstorm robots.</li>
+                    </ul></li>
+                    
+                    <li><b>University of Georgia Science Olympiad Outreach</b></li>
+                    <li class="nobullet"><ul>
+                        <li>Exam Proctor and Grader</li>
+                        <li>Fall 2019</li>
+                    </ul></li>
+                </ul></li>
+            </ul>
+        </section>
+        <section>
+            <h2 class="textcenter">Awards</h2>
+            <ul>
+                <li>Science Olympiad Division C Regionals Finalist</li>
+                 <li class="nobullet"><ul>
+                    <li>2nd place in the <i>Game On!</i> event - 2017 Regionals at the University of Georgia</li>
+                    <li>3rd place in the <i>Codebusters</i> event - 2019 Regionals at the University of Georgia</li>
+                </ul></li>
+                <li>2016 and 2017 GMEA All-District Honor Band</li>
+            </ul>
+        </section>
+        <section>
+            <h2 class="textcenter">Activities and Interests</h2>
+            <ul>
+                <li>Software Development <i>(see <a href="/programming">Programming Projects</a>)</i></li>
+                <li>Music Transcriptions <i>(see <a href="/music">Sheet Music</a>)</i></li>
+                <li>High School E-Sports Club</li>
+                <li class="nobullet"><ul>
+                    <li>Co-founder and co-president 2018-19</li>
+                    <li>Helped grow club to over 120 members in the first year.</li>
+                </ul></li>
+                <li>Public Forum Debater</li>
+                <li>Home/Desktop Flight Simulation</li>
+            </ul>
+        </section>
+        <hr/>
+        <section>
+            <h2 class="textcenter">Background</h2>
+            <p class="indent">I spent the majority of my childhood living near Seattle, Washington. As a child, I was fascinated by all things related to the transportation industry, especially trains. Each time I heard locomotive horns from across the bay, I would run to the window with binoculars to try to spot a freight consist snaking along the shoreline. On occasion, Air Force aircraft would fly over the house, since we lived below an arrival path for an Air Force base. This fascination grew to an interest in aviation in middle school. I received a copy of <i>Microsoft Flight Simulator X</i>, and I was instantly hooked. I started investing plenty of my free time in flight simulation, and I had spent most of my time doing various things, from learning the ins and outs of a DC-3 addon (I have had an interest in older technology) to flying around to places I had visited in real life previously, including South Korea where the majority of my relatives live.</p>
+            <p class="indent">I was also first exposed to programming at a very young age, although I had not made anything presentable or noteworthy at the time. In 2009, I began to play <a rel="external" href="http://www.roblox.com">Roblox</a>. Since the development of games on the Roblox platform is open to (and intended for) users, I had tinkered around a bit in Roblox Studio. I was able to write <em>basic</em> scripts that did nothing more than open doors or print messages to the console, but I did find it intriguing as a child. In the present, many years later, I am still active on Roblox; in fact, I founded a game development group with a friend (the same group and friend mentioned in the Overview) to develop Roblox games, and thus far we have seen moderate success.</p>
+            <p class="indent">Along with programming and aviation, music has also been a small hobby of mine. I performed in school band programs as a clarinetist from 5th to 10th grade, and in high school I qualified for the GMEA All-District Honor Band twice. Beyond my school band programs, I also found a hobby in transcribing music. I discovered the <a rel="external" href="http://www.musescore.com">MuseScore</a> software during a hunt for a notation software (my middle school band director was asking if anyone knew one, as another band member had worked with the director to compose an original piece that year). My sheet music hobby has not gone very far, nor do I plan on it going far, but I am proud of some of the pieces I have transcribed. In case you're wondering, I do not compose original songs, since that takes a level of artistic insight that I rarely have.</p>
+            <p class="indent">Currently, I'm an undergraduate student at the University of Georgia. My career goal is to either begin an indie game development career out of my Roblox game development venture or to obtain a software development position in a transportation-related field. I'm enthusiastic about my computer science education, and I look forward to learning more and working in software development internships to hone my skills.</p>
+        </section>
+        <!-- TODO: Other profiles, resume info -->
+    </div>
+    
+    <footer>
+        <!--#if expr="%{DOCUMENT_ROOT} == '/home/1230james/website'" -->
+            <!--#include virtual="/footer.html" -->
+        <!--#else -->
+            <!--#include virtual="/devfooter.html" -->
+        <!--#endif -->
+    </footer>
+</body>
+
+</html>

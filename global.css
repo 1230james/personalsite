@@ -1,0 +1,136 @@
+/* Global/Primary CSS sheet */
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300&display=swap');
+
+/* Mini-Reset */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global; applies to everything */
+html * {
+    font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+}
+
+/* Body */
+body {
+    background-color: #eee; /* uhhh nobody will kill me for straying from the 216-color palette in 2020 right? */
+    color: #444; /* Japan be like "yo what" */
+}
+
+/* a (Hyperlinks) */
+body a:link, body a:visited { color: #444 }
+nav a:link, nav a:visited  { color: #eee }
+body a:hover { color: #999 }
+
+/* Header text */
+header {
+    line-height: 50%;
+    padding: 1px 0px;
+}
+header h1 {
+    font-family: 'Acme', Arial, Helvetica, sans-serif;
+}
+
+/* Nav bar */
+nav {
+    margin: auto;
+    padding: 0px 0px 5px 0px;
+	display: inline-block;
+}
+
+/* Header & Nav bar combined */
+#headernav {
+    background-color: #444;
+    color: #eee;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    text-align: center;
+}
+
+/* Big h2 */
+h2.big {
+    font-size: 300%;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+
+/* Sections & Horizontal Lines */
+section, hr {
+    margin: auto;
+    width: 50%;
+}
+
+/* Content */
+#content {
+    /* If setting padding-top, USE PIXELS! Page transition script expects only pixels. */
+}
+
+/* Footer */
+footer {
+    padding-top: 10px;
+}
+
+/* Class for centered text */
+.textcenter {
+    text-align: center;
+}
+
+/* Class for indented paragraphs */
+.indent {
+    text-indent: 1em;
+}
+
+/* Class for lists on Programming Projects page */
+.projectlist:first-child {
+    font-weight: bold;
+}
+
+/* Class for list items to not show bullet point */
+.nobullet {
+    list-style-type: none;
+}
+
+/* Stuff related to song containers */
+.song {
+    overflow: hidden;
+}
+.song h3 {
+    margin-bottom: 2px;
+    font-size: x-large;
+}
+.song h4 {
+    margin-top: 2px;
+    font-weight: normal;
+    font-style: italic;
+}
+.song img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding: 20px;
+}
+.songContainer .buttons {
+    margin-bottom: 20px;
+    text-align: center; /* why the hell does this work */
+}
+.songContainer .buttons  button {
+    display: inline;
+    padding: 5px;
+    margin: auto;
+    font-size: large;
+    width: 150px;
+}
+
+/* Invis */
+.invis {
+    height: 0;
+    width: 0;
+    padding: 0;
+    margin: 0;
+}

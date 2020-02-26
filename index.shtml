@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>1230james's Website - Home</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <div id="content">
+        <section>
+            <h2 class="big textcenter">Welcome!</h2>
+            <p class="indent">Welcome to <b>1230james's Website</b>! My name is James Hyun, a college undergraduate majoring in computer science who likes to program and do some other niche things.</p>
+            <p>This website is intended to serve as an online "portfolio" where I can show off the things I want to share to anyone who passes by, from online acquaintances to potential employers to family members.</p>
+            <p>View the links in the navigation bar above to see and learn more about who I am and what I do.</p>
+            <p class="textcenter"><i>This website is still a <strong>work-in-progress!</strong><br/>Some pages may be incomplete or have their contents changed without notice.</i></p>
+        </section>
+        <hr/>
+        <section>
+            <h2 class="textcenter">Pages to Visit</h2>
+            <p class="indent"><strong>Are you an employer?</strong> Please feel free to browse any page here, but for personal details, see the <a href="/about">About Me</a> page, and for code samples, visit the <a href="/programming">Programming Projects</a> page. For privacy concerns, a copy of my résumé is not available through this site, but you may request a copy by <a href="/contact">contacting me</a>.</p>
+            
+            <p class="indent"><strong>Are you here because of the games or other programs I've made?</strong> Visit <a href="/hpn">Half Past Noon</a> for my primary game development endeavor, or see <a href="/programming">Programming Projects</a> for my non-HPN-related projects, such as my Discord bots.</p>
+            
+            <p class="indent"><strong>Are you here for sheet music?</strong> This website will be the new home for <i>James's Sheet Music</i> (or <i>JHSheetMusic</i>)! All sheet music-related information, including downloads, can be accessed through the <a href="/music">Sheet Music</a> page.</p>
+            
+            <p class="indent"><strong>Not here for any of those?</strong> That's okay. Thanks for stopping by anyway!</p>
+        </section>
+    </div>
+    
+    <footer>
+        <!--#if expr="%{DOCUMENT_ROOT} == '/home/1230james/website'" -->
+            <!--#include virtual="/footer.html" -->
+        <!--#else -->
+            <!--#include virtual="/devfooter.html" -->
+        <!--#endif -->
+    </footer>
+</body>
+
+</html>

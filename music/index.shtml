@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>1230james's Website - Sheet Music</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+    <script id="musicmain.js" src="musicmain.js"></script>
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <div id="content">
+        <h2 class="big textcenter">Sheet Music</h2>
+        <section>
+            <h2 class="textcenter">Welcome to James's Sheet Music!</h2>
+            <p class="indent">This page is where you can find all my music transcriptions, new and old. I use <a href="https://musescore.com" rel="external">MuseScore</a> to create all my scores, and then I upload them here for the public to enjoy. I always strive to make my transcriptions sound as true to the original song as possible, although I am by no means a professional and I also edit sections that sound awkward when transcribed, so 100% accuracy is not guaranteed.</p>
+            <p class="indent"><em>No profits</em> are made from any of my works, nor do I ever intend to. Music transcription is purely a passion project/hobby I enjoy doing with songs I love listening to alongside my other hobbies. All my works are available to the public free of charge.</p>
+            <p class="indent">While it is not required, I highly recommend you (1) check out the sources for the songs I transcribe to help out the original creators, and (2) share this page and/or my works with other people. It makes me happy knowing that there are people out there who are listening to what I've done.</p>
+            <p class="textcenter"><b>Except where explicitly stated otherwise, each work is licensed to you under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external">CC BY-NC-SA 4.0</a>.</b></p>
+        </section>
+        <hr/>
+        <section id="toc">
+            <h2 class="textcenter">Table of Contents</h2>
+            <p class="textcenter">Songs are generally ordered from newest to oldest, but are otherwise not sorted in any particular order.</p>
+            <h3>In-Progress</h3>
+            <ul id="inProgressList"></ul>
+            <h3>Completed</h3>
+            <ul id="completedList"></ul>
+        </section>
+        <hr/>
+        <section id="inprogress">
+            <h2 class="textcenter">In-Progress</h2>
+            <p class="textcenter">Works that are currently in progress and will be ready in the future.</p>
+        </section>
+        <hr/>
+        <section id="completed">
+            <h2 class="textcenter">Completed</h2>
+            <p class="textcenter">Works that are completed and ready for viewing.</p>
+        </section>
+        <p id="musicmain" class="invis"> </p> <!-- for navigation.js; LEAVE THE SPACE IN THERE -->
+    </div>
+    
+    <footer>
+        <!--#if expr="%{DOCUMENT_ROOT} == '/home/1230james/website'" -->
+            <!--#include virtual="/footer.html" -->
+        <!--#else -->
+            <!--#include virtual="/devfooter.html" -->
+        <!--#endif -->
+    </footer>
+</body>
+
+</html>

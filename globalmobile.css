@@ -1,0 +1,35 @@
+/* Global CSS sheet for mobile devices/small browser windows */
+
+@import "global.css" screen; /* Use the rules from the main sheet; use this sheet only to override what needs to be changed */
+
+/* Sections & Horizontal ulnes */
+section, hr {
+    margin: auto;
+    width: 75%;
+}
+
+/* list idents */
+ul {
+    padding-left: 0px;
+}
+ul ul {
+    padding-left: 20px;
+}
+ul ul ul {
+    padding-left: 40px;
+}
+
+/* song containers */
+.song img {
+    width: 200px;
+    height: 200px;
+    float: none;
+    padding: 20px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.song h3 {
+    margin-top: 2px;
+    font-size: x-large;
+}
