@@ -1,12 +1,5 @@
 [
     {
-        "name": "Crossing Way", "origin": "Ao no Kanata no Four Rhythm",
-        "icon": "/music/icons/crossingway.png",
-        "desc": "The song played during the grand opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.<br/><br/>You can purchase a digital copy of the game on <a href='https://nekonyansoft.com/shop/product/22' rel='external'>NekoNyanSoft's website</a>. A few portions of the game contain adult content, so be advised. An all-ages version is available on <a href='https://store.steampowered.com/app/1044620/Aokana__Four_Rhythms_Across_the_Blue/' rel='external'>Steam</a>, too, at the time of writing.<br/><br/>Credit goes to Sprite for the song and the art used.",
-        "archive": "",
-        "video": "",
-        "completed": false
-    }, {
         "name": "Great at Crime", "origin": "Epithet Erased",
         "icon": "/music/icons/greatatcrime.png",
         "desc": "The ending credits theme song for the first several episodes of Brendan \"JelloApocalypse\" Blaber's miniseries <i>Epithet Erased</i><br/><br/>You can watch the series for free on <a href=\"https://www.youtube.com/playlist?list=PLHACfIDFF66rxMt46cSoVxUulvL3bKluM\" rel=\"external\">Blaber's YouTube channel</a>.<br/><br/>Credit goes to Plasterbrain, JelloApocalypse, and those involved in the making of <i>Epithet Erased</i> for the song and the art used.",
@@ -34,6 +27,13 @@
     
     
     {
+        "name": "Crossing Way", "origin": "Ao no Kanata no Four Rhythm",
+        "icon": "/music/icons/crossingway.png",
+        "desc": "The song played during the grand opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.<br/><br/>You can purchase a digital copy of the game on <a href='https://nekonyansoft.com/shop/product/22' rel='external'>NekoNyanSoft's website</a>. A few portions of the game contain adult content, so be advised. An all-ages version is available on <a href='https://store.steampowered.com/app/1044620/Aokana__Four_Rhythms_Across_the_Blue/' rel='external'>Steam</a>, too, at the time of writing.<br/><br/>Credit goes to Sprite for the song and the art used.",
+        "archive": "/music/archives/Crossing Way.zip",
+        "video": "https://www.youtube.com/watch?v=AW9-PayxCyE",
+        "completed": true
+    }, {
         "name": "DEADLINE", "origin": "Epithet Erased",
         "icon": "/music/icons/deadline.png",
         "desc": "The opening theme song for Brendan \"JelloApocalypse\" Blaber's miniseries <i>Epithet Erased</i>.<br/><br/>You can watch the series for free on <a href=\"https://www.youtube.com/playlist?list=PLHACfIDFF66rxMt46cSoVxUulvL3bKluM\" rel=\"external\">Blaber's YouTube channel</a>.<br/><br/>Credit goes to Plasterbrain, JelloApocalypse, and those involved in the making of <i>Epithet Erased</i> for the song and the art used.",
