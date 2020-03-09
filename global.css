@@ -149,6 +149,26 @@ li a.btn {
     width: 150px;
 }
 
+/* YT embed container */
+.videoWrapper { /* Container goes inside wrapper */
+    width: 100%;
+    max-width: 50vw;
+}
+.videoContainer {
+    position: relative;
+    overflow: hidden;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.videoContainer iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+}
+
 /* Home page logo */
 .homelogo {
     text-align: center;
