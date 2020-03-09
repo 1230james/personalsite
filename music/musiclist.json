@@ -20,6 +20,20 @@
         "archive": "",
         "video": "",
         "completed": false
+    }, {
+        "name": "Wings of Courage", "origin": "Ao no Kanata no Four Rhythm",
+        "icon": "/music/icons/woc.png",
+        "desc": "The song from the opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>. <br/><br/>You can purchase a digital copy of the game on <a href='https://nekonyansoft.com/shop/product/22' rel='external'>NekoNyanSoft's website</a>. A few portions of the game contain adult content, so be advised. An all-ages version is available on <a href='https://store.steampowered.com/app/1044620/Aokana__Four_Rhythms_Across_the_Blue/' rel='external'>Steam</a>, too, at the time of writing.<br/><br/>Credit goes to Sprite for the song and the art used.",
+        "archive": "",
+        "video": "",
+        "completed": false
+    }, {
+        "name": "Rail Romanesque", "origin": "Maitetsu",
+        "icon": "/music/icons/railromanesque.png",
+        "desc": "This song plays in the trailer and during the Hachiroku Route ending from Lose's 2016 visual novel <i>Maitetsu</i>.<br/><br/>You can purchase a digital copy of the game on <a href='https://store.steampowered.com/app/714800/Maitetsu/' rel='external'>Steam</a>.<br/><br/>Credit goes to Lose and Cura for the song and the art used.",
+        "archive": "",
+        "video": "",
+        "completed": false
     },
     
     
