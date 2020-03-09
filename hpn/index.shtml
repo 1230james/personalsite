@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>1230james's Website - Half Past Noon</title>
+    <title>Half Past Noon - 1230james's Website</title>
     <meta charset="UTF-8"/>
     <!--#include virtual="/headcommon.html" -->
 </head>
@@ -10,7 +10,7 @@
 <body>
     <!--#include virtual="/headernav.html" -->
     
-    <div id="content">      <!-- what time is it? it's -->
+    <main class="container-fluid" role="main" id="content">      <!-- what time is it? it's -->
         <h2 class="big textcenter">Half Past Noon</h2> 
         <section>
             <h2 class="textcenter">What is Half Past Noon?</h2> 
@@ -39,15 +39,13 @@
                 <li><a href="/javadocs/javafarmer">JavaFarmer</a></li>
             </ul>
         </section>
-    </div>
+    </main>
     
-    <footer>
-        <!--#if expr="%{DOCUMENT_ROOT} == '/home/1230james/website'" -->
-            <!--#include virtual="/footer.html" -->
-        <!--#else -->
-            <!--#include virtual="/devfooter.html" -->
-        <!--#endif -->
-    </footer>
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
 </body>
 
 </html>

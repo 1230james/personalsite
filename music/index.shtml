@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>1230james's Website - Sheet Music</title>
+    <title>Sheet Music - 1230james's Website</title>
     <meta charset="UTF-8"/>
     <!--#include virtual="/headcommon.html" -->
     <script id="musicmain.js" src="musicmain.js"></script>
@@ -11,7 +11,7 @@
 <body>
     <!--#include virtual="/headernav.html" -->
     
-    <div id="content">
+    <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">Sheet Music</h2>
         <section>
             <h2 class="textcenter">Welcome to James's Sheet Music!</h2>
@@ -40,15 +40,13 @@
             <p class="textcenter">Works that are completed and ready for viewing.</p>
         </section>
         <p id="musicmain" class="invis"> </p> <!-- for navigation.js; LEAVE THE SPACE IN THERE -->
-    </div>
+    </main>
     
-    <footer>
-        <!--#if expr="%{DOCUMENT_ROOT} == '/home/1230james/website'" -->
-            <!--#include virtual="/footer.html" -->
-        <!--#else -->
-            <!--#include virtual="/devfooter.html" -->
-        <!--#endif -->
-    </footer>
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
 </body>
 
 </html>

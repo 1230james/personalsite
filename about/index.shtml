@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>1230james's Website - About Me</title>
+    <title>About Me - 1230james's Website</title>
     <meta charset="UTF-8"/>
     <!--#include virtual="/headcommon.html" -->
 </head>
@@ -10,7 +10,7 @@
 <body>
     <!--#include virtual="/headernav.html" -->
     
-    <div id="content">
+    <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">About Me</h2>
         <section>
             <h2 class="textcenter">Overview</h2>
@@ -106,15 +106,13 @@
             <p class="indent">Currently, I'm an undergraduate student at the University of Georgia. My career goal is to either begin an indie game development career out of my Roblox game development venture or to obtain a software development position in a transportation-related field. I'm enthusiastic about my computer science education, and I look forward to learning more and working in software development internships to hone my skills.</p>
         </section>
         <!-- TODO: Other profiles, resume info -->
-    </div>
+    </main>
     
-    <footer>
-        <!--#if expr="%{DOCUMENT_ROOT} == '/home/1230james/website'" -->
-            <!--#include virtual="/footer.html" -->
-        <!--#else -->
-            <!--#include virtual="/devfooter.html" -->
-        <!--#endif -->
-    </footer>
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
 </body>
 
 </html>

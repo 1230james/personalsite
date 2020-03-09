@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>1230james's Website - Programming Projects</title>
+    <title>Programming Projects - 1230james's Website</title>
     <meta charset="UTF-8"/>
     <!--#include virtual="/headcommon.html" -->
 </head>
@@ -10,7 +10,7 @@
 <body>
     <!--#include virtual="/headernav.html" -->
     
-    <div id="content">
+    <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">Programming Projects</h2>
         <section>
             <h2 class="textcenter">Introduction</h2>
@@ -65,15 +65,13 @@
         
         -->
         
-    </div>
+    </main>
     
-    <footer>
-        <!--#if expr="%{DOCUMENT_ROOT} == '/home/1230james/website'" -->
-            <!--#include virtual="/footer.html" -->
-        <!--#else -->
-            <!--#include virtual="/devfooter.html" -->
-        <!--#endif -->
-    </footer>
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
 </body>
 
 </html>

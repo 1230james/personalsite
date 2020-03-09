@@ -1,7 +1,6 @@
 /* Global/Primary CSS sheet */
 
 /* Google Fonts */
-@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300&display=swap');
 
 /* Mini-Reset */
@@ -25,6 +24,7 @@ body {
 body a:link, body a:visited { color: #444 }
 nav a:link, nav a:visited  { color: #eee }
 body a:hover { color: #999 }
+p a, li a { text-decoration: underline }
 
 /* Header text */
 header {
@@ -42,14 +42,9 @@ nav {
 	display: inline-block;
 }
 
-/* Header & Nav bar combined */
+/* Header & Nav bar */
 #headernav {
     background-color: #444;
-    color: #eee;
-    position: sticky;
-    top: 0;
-    width: 100%;
-    text-align: center;
 }
 
 /* Big h2 */
@@ -60,12 +55,20 @@ h2.big {
     text-decoration: underline;
 }
 
-/* Sections & Horizontal Lines */
+/* Sections & Horizontal Line width */
 section, hr {
     margin: auto;
     width: 50%;
 }
 
+/* Horizontal line color & spacing */
+/*hr {
+    color: #5B5E79;
+    background-color: #5B5E79;
+    border-top: 1px solid #5B5E79;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}*/                                     
 /* Content */
 #content {
     /* If setting padding-top, USE PIXELS! Page transition script expects only pixels. */
@@ -74,6 +77,24 @@ section, hr {
 /* Footer */
 footer {
     padding-top: 10px;
+}
+
+/* Button anchors */
+a.btn {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+a.btn:link, a.btn:visited {
+    color: #eee;
+    background-color: #566F94;
+    border-color: #566F94;
+}
+a.btn:hover {
+    background-color: #3A4B63;
+    border-color: #3A4B63;
+}
+li a.btn {
+    text-decoration-line: initial;
 }
 
 /* Class for centered text */

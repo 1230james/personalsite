@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>1230james's Website - Contact Me</title>
+    <title>Contact Me - 1230james's Website</title>
     <meta charset="UTF-8"/>
     <!--#include virtual="/headcommon.html" -->
 </head>
@@ -10,7 +10,7 @@
 <body>
     <!--#include virtual="/headernav.html" -->
     
-    <div id="content">
+    <main class="container-fluid" role="main" id="content">
         <section>
             <h2 class="big textcenter">Contact Me</h2> <!-- Putting it here to silence HTML validator -->
             <p class="textcenter">Listed below are various methods to get into touch with me.</p>
@@ -32,15 +32,13 @@
             <p>If, somehow, you have my telephone number (through my résumé, perhaps), then <strong>please refrain from attempting to contact me via voice unless it is absolutely urgent.</strong> I reject virtually every call.</p>
             <p>If you absolutely must contact me via phone, please keep calling multiple times in a row. If I notice that the same number is persistent on calling me, it will be proof to me that the 500 millionth robo-caller isn't the one trying to call me.</p>
         </section>
-    </div>
+    </main>
     
-    <footer>
-        <!--#if expr="%{DOCUMENT_ROOT} == '/home/1230james/website'" -->
-            <!--#include virtual="/footer.html" -->
-        <!--#else -->
-            <!--#include virtual="/devfooter.html" -->
-        <!--#endif -->
-    </footer>
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
 </body>
 
 </html>
