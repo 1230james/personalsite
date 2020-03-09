@@ -1,5 +1,8 @@
 /* Global/Primary CSS sheet */
 
+/* Bootstrap */
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css');
+
 /* Google Fonts */
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300&display=swap');
 
@@ -62,13 +65,14 @@ section, hr {
 }
 
 /* Horizontal line color & spacing */
-/*hr {
+hr {
     color: #5B5E79;
     background-color: #5B5E79;
     border-top: 1px solid #5B5E79;
     margin-top: 20px;
     margin-bottom: 20px;
-}*/                                     
+}
+
 /* Content */
 #content {
     /* If setting padding-top, USE PIXELS! Page transition script expects only pixels. */
@@ -86,12 +90,12 @@ a.btn {
 }
 a.btn:link, a.btn:visited {
     color: #eee;
-    background-color: #566F94;
-    border-color: #566F94;
+    background-color: #444;
+    border-color: #444;
 }
 a.btn:hover {
-    background-color: #3A4B63;
-    border-color: #3A4B63;
+    background-color: #666;
+    border-color: #666;
 }
 li a.btn {
     text-decoration-line: initial;
@@ -146,6 +150,12 @@ li a.btn {
     margin: auto;
     font-size: large;
     width: 150px;
+}
+
+/* Home page logo */
+.homelogo {
+    text-align: center;
+    margin: 20px auto;
 }
 
 /* Invis */

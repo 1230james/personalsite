@@ -12,18 +12,20 @@
     
     <main class="container-fluid" role="main" id="content">
         <section>
-            <h2 class="big textcenter">Welcome!</h2>
-            <img src="/avatar.png" alt="" class="textcenter"/>
-            <p class="indent">Welcome to <b>1230james's Website</b>! My name is James Hyun, a college undergraduate majoring in computer science who likes to program and do some other niche things.</p>
-        </section>
-        <hr/>
-        <section>
-            <h2 class="textcenter">Pages to Visit</h2>
-            <p class="indent"><strong>Are you here because of the games or other programs I've made?</strong> Visit <a href="/hpn">Half Past Noon</a> for my primary game development endeavor, or see <a href="/programming">Programming Projects</a> for my non-HPN-related projects, such as my Discord bots.</p>
-            
-            <p class="indent"><strong>Are you here for sheet music?</strong> This website will be the new home for <i>James's Sheet Music</i> (or <i>JHSheetMusic</i>)! All sheet music-related information, including downloads, can be accessed through the <a href="/music">Sheet Music</a> page.</p>
-            
-            <p class="indent"><strong>Not here for any of those?</strong> That's okay. Thanks for stopping by anyway!</p>
+            <h2 class="big textcenter"><b>Welcome!</b></h2>
+            <div class="homelogo"><img src="/avatar.png" alt="" width="250px"/></div>
+            <p class="textcenter">Welcome to <b>1230james's Website</b>! My name is James Hyun, a college undergraduate majoring in computer science who likes to program and do some other niche things.</p>
+            <hr/>
+            <p class="indent">I primarily do software development in my spare time. If you're here to see what I've worked on, including Discord bots and Roblox games, visit my pages on <strong>Programming Projects</strong> and <strong>Half Past Noon</strong>.</p>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="/programming">Programming Projects</a>
+                <a class="btn btn-primary" href="/hpn">Half Past Noon</a>
+            </div>
+            <hr/>
+            <p class="textcenter">I also transcribe music as a hobby. To see the list of songs I've finished and the songs I'm working on, visit my <strong>Sheet Music</strong> page. All completed transcriptions have free downloads available.</p>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="/music">Sheet Music</a>
+            </div>
         </section>
     </main>
     
