@@ -25,7 +25,6 @@ body {
 
 /* a (Hyperlinks) */
 body a:link, body a:visited { color: #444 }
-nav a:link, nav a:visited  { color: #eee }
 body a:hover { color: #999 }
 p a, li a { text-decoration: underline }
 
@@ -38,14 +37,12 @@ header h1 {
     font-family: 'Acme', Arial, Helvetica, sans-serif;
 }
 
-/* Nav bar */
+/* Header & Nav bar */
 nav {
     margin: auto;
     padding: 0px 0px 5px 0px;
 	display: inline-block;
 }
-
-/* Header & Nav bar */
 #headernav {
     background-color: #444;
 }

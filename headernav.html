@@ -11,7 +11,28 @@
             <a class="nav-item nav-link" href="/">Home</a>
             <a class="nav-item nav-link" href="/about">About Me</a>
             <a class="nav-item nav-link" href="/programming">Programming</a>
-            <a class="nav-item nav-link" href="/music">Sheet Music</a>
+            <!-- Sheet music dropdown -->
+            <span class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" id="musicDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sheet Music</a>
+                <div class="dropdown-menu" aria-labelledby="musicDropdown">
+                    <a class="dropdown-item" href="/music">Sheet Music Home</a>
+                    <!-- Completed Sheets Dropdown -->
+                    <div>
+                        <a class="dropdown-item dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Submenu</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#">Action</a>
+                        </div>
+                    </div>
+                    <!-- In-Progress Sheets Dropdown -->
+                    <div>
+                        <a class="dropdown-item dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Submenu 2</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#">Action</a>
+                        </div>
+                    </div>
+                </div>
+            </span>
+            <!-- End sheet music dropdown -->
             <a class="nav-item nav-link" href="/contact">Social & Contact</a>
         </div>
     </div>
