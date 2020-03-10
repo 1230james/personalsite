@@ -13,6 +13,9 @@ $(document).ready(function() {
         loadPage();
     });
     
+    // Set currentPath (for debounce)
+    currentPath = location.pathname;
+    
     console.log("navigation.js loaded");
     
     // ====================================
@@ -45,6 +48,7 @@ $(document).ready(function() {
 // Load page (incl. animations)
 function loadPage() {
     // Same page check (return if the page is the same)
+    console.log(location.pathname);
     if (location.pathname == currentPath) return;
     
     loadContent();
@@ -72,7 +76,7 @@ function loadContent() {
 // Bind anchors
 function bindAnchors(i,e) {
     e.onclick = function() {
-        if (isLocalAnchor(e)) {
+        if (isLocalAnchor(e) && !(e.class.includes("nosmoothnav"))) {
             history.pushState({}, '', e.href);
             loadPage();
             return false;

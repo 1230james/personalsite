@@ -13,7 +13,7 @@
     <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">Crossing Way</h2>
         <h2 class="textcenter">Ao no Kanata no Four Rhythm</h2>
-        <div class="textcenter"><img src="/music/icons/crossingway.png" width="250px" alt=""/></div>
+        <div class="textcenter"><img src="/music/icons/crossingway.png" style="max-width: 250px;" alt=""/></div>
         <hr/>
         <section>
             <h3 class="textcenter">Information</h3>
@@ -58,7 +58,7 @@
         <section>
             <h3 class="textcenter">Download</h3>
             <div class="mx-auto textcenter">
-                <a class="btn btn-primary" href="/music/archives/Crossing Way.zip" rel="external">Download ZIP</a>
+                <a class="btn btn-primary" href="/music/archives/Crossing Way.zip" class="nosmoothnav" download>Download ZIP</a>
                 <p class="textcenter">File size: 9.01 MB</p>
                 <div class="mx-auto" style="width: 60%;">
                     <h4 class="textcenter">Archive Contents</h4>

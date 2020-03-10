@@ -26,7 +26,7 @@
     }, {
         "name": "レイル・ロマネスク / Rail Romanesque", "origin": "Maitetsu",
         "icon": "/music/icons/railromanesque.png",
-        "desc": "The main theme for Lose's 2016 visual novel <i>Maitetsu</i>, played during the opening and the trailer.",
+        "desc": "The main theme for Lose's 2016 visual novel <i>Maitetsu</i>, played during the opening for Hachiroku's route and the trailer.",
         "path": "/music/railromanesque",
         "completed": false
     },

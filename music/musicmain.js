@@ -33,6 +33,7 @@ Sample of intended HTML for each song container
 // On ready
 $(document).ready(function() {
     console.log("Running musicmain");
+    $("#javascriptnotice").attr("hidden", "");
     $.get("/music/musiclist.json",null,function(musicList) {
         
         for (let songObj of musicList) {
@@ -52,24 +53,24 @@ $(document).ready(function() {
 // Construct the song container
 function getSongContainer(obj) { // oh yeah we out here about to use jQuery like a retard
     // Create container
-    let container = $("<div id=\"" + obj.name + "\" class=\"songContainer\"></div>");
-    let song = $("<div class=\"song\"></div>");
+    let container = $("<div id='" + obj.name + "' class='songContainer'></div>");
+    let song = $("<div class='song'></div>");
     
     // Icon
-    let iconImg = $("<img src=\"" + obj.icon + "\" alt=\""
-        + obj.name + "\"/>");
+    let iconImg = $("<img src='" + obj.icon + "' alt='"
+        + obj.name + "'/>");
     song.append(iconImg);
     
     // Text
-    let header = $("<h3 class=\"textcenter\">" + obj.name + "</h3>");
-    let subheader = $("<h4 class=\"textcenter\">" + obj.origin + "</h4>");
-    let desc = $("<p class=\"textcenter\">" + obj.desc + "</p>");
+    let header = $("<h3 class='textcenter'>" + obj.name + "</h3>");
+    let subheader = $("<h4 class='textcenter'>" + obj.origin + "</h4>");
+    let desc = $("<p class='textcenter'>" + obj.desc + "</p>");
     song.append(header,subheader,desc);
     container.append(song);
     
     // Button
-    let buttonContainer = $("<div class=\"mx-auto textcenter\"></div>");
-    let viewBtn = $("<a class=\"btn btn-primary\" href=\""+ obj.path + "\">View Info</a>")
+    let buttonContainer = $("<div class='mx-auto textcenter'></div>");
+    let viewBtn = $("<a class='btn btn-primary' href='"+ obj.path + "'>View Info</a>")
     buttonContainer.append(viewBtn);
      //container.append(buttonContainer);
     song.append(buttonContainer);
@@ -78,7 +79,7 @@ function getSongContainer(obj) { // oh yeah we out here about to use jQuery like
 
 // Add song to the ToC
 function addToTableOfContents(obj) {
-    let anchor = "<a href=\"#" + obj.name + "\">" + obj.name + "</a>";
+    let anchor = "<a href='#" + obj.name + "'>" + obj.name + "</a>";
     let listObj = $("<li>" + anchor + "</li>");
     if (obj.completed) {
         $("#completedList").append(listObj);

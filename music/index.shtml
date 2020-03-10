@@ -17,18 +17,18 @@
             <h2 class="textcenter">Welcome to James's Sheet Music!</h2>
             <p class="indent">This page is where you can find all my music transcriptions, new and old. I use <a href="https://musescore.com" rel="external">MuseScore</a> to create all my scores, and then I upload them here for the public to enjoy. I always strive to make my transcriptions sound as true to the original song as possible, although I am by no means a professional and I also edit sections that sound awkward when transcribed, so 100% accuracy is not guaranteed.</p>
         <hr style="width:100%;"/>
-            <div class="container-fluid">
+            <div class="container-fluid musicshowcase">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-xs-6 col-md-6">
                         <h3 class="textcenter"><b><u>Featured Work</b></u></h3>
                         <h4 class="textcenter">My Place</h4>
-                        <div class="mx-auto textcenter"><a href="/music/myplace"><img src="/music/icons/myplace.png" width="250px" alt="Click to view sheet details"/></a></div>
+                        <div class="mx-auto textcenter"><a href="/music/myplace"><img src="/music/icons/myplace.png" alt="Click to view sheet details"/></a></div>
                         <p class="textcenter">The leitmotif for Natsume Rindou, a character from Lump of Sugar's 2010 visual novel <i>Hello, Good-bye</i>.</p>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-xs-6 col-md-6">
                         <h3 class="textcenter"><b><u>Most Recent</b></u></h3>
                         <h4 class="textcenter">Crossing Way</h4>
-                        <div class="mx-auto textcenter"><a href="/music/crossingway"><img src="/music/icons/crossingway.png" width="250px" alt="Click to view sheet details"/></a></div>
+                        <div class="mx-auto textcenter"><a href="/music/crossingway"><img src="/music/icons/crossingway.png" alt="Click to view sheet details"/></a></div>
                         <p class="textcenter">The song played during the grand opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.</p>
                     </div>
                 </div>
@@ -43,6 +43,7 @@
             <h2 class="textcenter">Table of Contents</h2>
             <p class="textcenter">Songs are generally ordered from newest to oldest, but are otherwise not sorted in any particular order.</p>
             <p class="textcenter">Click the <strong>View Info</strong> button to see more information about a song. Downloads for completed works are available through each song's info page.</p>
+            <p class="textcenter" id="javascriptnotice"><em>Please enable JavaScript on your browser, or the table of contents will be unable to load.</em></p>
             <h3>In-Progress</h3>
             <ul id="inProgressList"></ul>
             <h3>Completed</h3>
@@ -67,7 +68,7 @@
                 <a class="btn btn-primary" href="/music/legacy">Legacy Works</a>
             </div>
         </section>
-        <p id="musicmain" class="invis"> </p> <!-- for navigation.js; LEAVE THE SPACE IN THERE -->
+        <p id="musicmain" hidden> </p> <!-- for navigation.js; LEAVE THE SPACE IN THERE -->
     </main>
     
     <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->

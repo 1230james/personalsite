@@ -75,6 +75,12 @@ hr {
     /* If setting padding-top, USE PIXELS! Page transition script expects only pixels. */
 }
 
+/* Responsive img sizes - in the HTML, always use style="max-width" instead of width= */
+img {
+    width: 100%;
+    height: auto;
+}
+
 /* Footer */
 footer {
     padding-top: 10px;
@@ -135,8 +141,7 @@ li a.btn {
     font-size: large;
 }
 .song img {
-    width: 200px;
-    height: 200px;
+    max-width: 200px;
     float: left;
     padding: 20px;
 }
@@ -171,10 +176,7 @@ li a.btn {
     margin: 20px auto;
 }
 
-/* Invis */
-.invis {
-    height: 0;
-    width: 0;
-    padding: 0;
-    margin: 0;
+/* Sheet music page showcase */
+.musicshowcase img {
+    max-width: 250px;
 }

@@ -13,7 +13,7 @@
     <main class="container-fluid" role="main" id="content">
         <section>
             <h2 class="big textcenter"><b>Welcome!</b></h2>
-            <div class="homelogo"><img src="/avatar.png" alt="" width="250px"/></div>
+            <div class="homelogo"><img src="/avatar.png" alt="" style="max-width: 250px;"/></div>
             <p class="textcenter">Welcome to <b>1230james's Website</b>! My name is James Hyun, a college undergraduate majoring in computer science who likes to program and do some other niche things.</p>
             <hr/>
             <p class="indent">I primarily do software development in my spare time. If you're here to see what I've worked on, including Discord bots and Roblox games, visit my pages on <strong>Programming Projects</strong> and <strong>Half Past Noon</strong>.</p>

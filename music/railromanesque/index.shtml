@@ -13,7 +13,7 @@
     <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">Rail Romanesque</h2>
         <h2 class="textcenter">(レイル・ロマネスク)<br/>Maitetsu</h2>
-        <div class="textcenter"><img src="/music/icons/railromanesque.png" width="250px" alt=""/></div>
+        <div class="textcenter"><img src="/music/icons/railromanesque.png" style="max-width: 250px;" alt=""/></div>
         <hr/>
         <section>
             <h3 class="textcenter">Information</h3>
@@ -21,7 +21,7 @@
                 <h4 class="textcenter">Song Details</h4>
                 <div class="row">
                     <div class="col-lg-6">
-                        <p class="indent">The main theme for Lose's 2016 visual novel <i>Maitetsu</i>, played during the opening and the trailer.<br/><br/>You can purchase a digital copy of the game on <a href='https://store.steampowered.com/app/714800/Maitetsu/' rel='external'>Steam</a>.</p>
+                        <p class="indent">The main theme for Lose's 2016 visual novel <i>Maitetsu</i>, played during the opening for Hachiroku's route and the trailer.<br/><br/>You can purchase a digital copy of the game on <a href='https://store.steampowered.com/app/714800/Maitetsu/' rel='external'>Steam</a>, or <a href='https://maitetsupurestation.com/' rel='external'>visit their website</a> for information on purchasing it for Nintendo Switch or PlayStation.</p>
                     </div>
                     <div class="col-lg-6">
                         <ul>
@@ -58,7 +58,7 @@
         <!-- <section>
             <h3 class="textcenter">Download</h3>
             <div class="mx-auto textcenter">
-                <a class="btn btn-primary" href="/music/archives/archive.zip" rel="external">Download ZIP</a>
+                <a class="btn btn-primary" href="/music/archives/archive.zip" class="nosmoothnav" download>Download ZIP</a>
                 <p class="textcenter">File size: TBD</p>
                 <div class="mx-auto" style="width: 60%;">
                     <h4 class="textcenter">Archive Contents</h4>
