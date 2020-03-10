@@ -125,11 +125,14 @@ li a.btn {
 .song h3 {
     margin-bottom: 2px;
     font-size: x-large;
+    font-weight: bold;
+    text-decoration: underline;
 }
 .song h4 {
     margin-top: 2px;
     font-weight: normal;
     font-style: italic;
+    font-size: large;
 }
 .song img {
     width: 200px;
@@ -137,16 +140,9 @@ li a.btn {
     float: left;
     padding: 20px;
 }
-.songContainer .buttons {
+.songContainer a.btn {
     margin-bottom: 20px;
-    text-align: center; /* why the hell does this work */
-}
-.songContainer .buttons  button {
-    display: inline;
-    padding: 5px;
-    margin: auto;
-    font-size: large;
-    width: 150px;
+    min-width: 150px;
 }
 
 /* YT embed container */

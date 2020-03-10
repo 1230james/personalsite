@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Nameless Story - 1230james's Website</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <main class="container-fluid" role="main" id="content">
+        <h2 class="big textcenter">Nameless Story</h2>
+        <h2 class="textcenter">(名も無き物語)<br/>Hello Good-bye</h2>
+        <div class="textcenter"><img src="/music/icons/hgb.png" width="250px" alt=""/></div>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Information</h3>
+            <div class="container-fluid">
+                <h4 class="textcenter">Song Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <p class="indent">The full/extended version of the title screen song from Lump of Sugar's 2010 visual novel <i>Hello, Good-bye</i>.<br/><br/>You can purchase a digital copy of the game on <a href='https://nekonyansoft.com/shop/product/16' rel='external'>NekoNyanSoft's website</a>. A few portions of the game contain adult content, so be advised. An all-ages version is available on <a href='https://store.steampowered.com/app/1009460/Hello_Goodbye/' rel='external'>Steam</a>, too, at the time of writing.</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Name: 名も無き物語 (Nameless Story)</li>
+                            <li>Source: Hello Good-bye</li>
+                            <li>Composer: かんさゆり (Kan Sayuri)</li>
+                            <li>Released: 2010</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="container-fluid">
+                <h4 class="textcenter">Transcription Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Released: May 25, 2019</li>
+                            <li>Length: 4m57s - 92 measures</li>
+                            <li>Instruments: 11</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6">
+                        <p class="textcenter" style="margin-bottom: 0px;">Credit goes to:</p>
+                        <ul>
+                            <li>Lump of Sugar & Kan Sayuri for the original song transcribed.</li>
+                            <li>Lump of Sugar & Moekibara Fumitake for the art used.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Download</h3>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="/music/archives/Nameless Story.zip" rel="external">Download ZIP</a>
+                <p class="textcenter">File size: 9.83 MB</p>
+                <div class="mx-auto" style="width: 60%;">
+                    <h4 class="textcenter">Archive Contents</h4>
+                        <p><b>MP3</b> recording to listen on any MP3 player.
+                        <br/><b>MIDI</b> file for playback on your favorite player.
+                        <br/><b>PDFs</b> of each part and the master score.
+                        <br/><b>MusicXML</b> file for cross-software sharing & remixing.
+                        <br/><b>MSCZ</b> file for sharing & remixing with MuseScore.</p>
+                </div>
+                <p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external">CC BY-NC-SA 4.0</a>.</p>
+            </div>
+        </section>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Video</h3>
+            <div class="mx-auto textcenter">
+                <div class="videoWrapper"><div class="videoContainer">
+                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/-gn-2ZweRNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div></div>
+            </div>
+        </section>
+        <hr/>
+        <div class="mx-auto textcenter"><a class="btn btn-primary" href="/music">Return to Sheet Music Home</a></div>
+    </main>
+    
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
+</body>
+
+</html>

@@ -2,37 +2,32 @@
     {
         "name": "Great at Crime", "origin": "Epithet Erased",
         "icon": "/music/icons/greatatcrime.png",
-        "desc": "The ending credits theme song for the first several episodes of Brendan \"JelloApocalypse\" Blaber's miniseries <i>Epithet Erased</i><br/><br/>You can watch the series for free on <a href=\"https://www.youtube.com/playlist?list=PLHACfIDFF66rxMt46cSoVxUulvL3bKluM\" rel=\"external\">Blaber's YouTube channel</a>.<br/><br/>Credit goes to Plasterbrain, JelloApocalypse, and those involved in the making of <i>Epithet Erased</i> for the song and the art used.",
-        "archive": "",
-        "video": "",
+        "desc": "The ending credits theme song for the first several episodes of Brendan \"JelloApocalypse\" Blaber's miniseries <i>Epithet Erased</i>.",
+        "path": "/music/greatatcrime",
         "completed": false
     }, {
         "name": "ECA Attraction Theme", "origin": "Emergency Call Ambulance",
         "icon": "/music/icons/eca.png",
-        "desc": "This song plays during the cutscene from the attraction mode of the 1999 Sega arcade game <i>Emergency Call Ambulance</i>.<br/><br/>Information for this game is rather sparse, but it surviving arcade cabinets and boards exist, and it may be played on the appropriate emulator. Gameplay can also be found on YouTube.<br/><br/>Credit goes to Sega for the song and the art used.",
-        "archive": "",
-        "video": "",
+        "desc": "The song from the cutscene from the attraction mode of the 1999 Sega arcade game <i>Emergency Call Ambulance</i>.",
+        "path": "/music/eca",
         "completed": false
     }, {
         "name": "Great Big Rollin' Railroad", "origin": "Union Pacific Railroad",
         "icon": "/music/icons/gbrr.png",
-        "desc": "Written by C. W. McCall, this song was created for use in an advertising campaign by the UPRR in 1970. It was well-received by the railroad company, who proceeded to use it in all their TV commercials and in other events.<br/><br/>Art based on a <a href='https://commons.wikimedia.org/wiki/File:Union_Pacific_5304.jpg' rel='external'>photograph taken by Hellbus</a>, licensed under <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en' rel='external'>CC BY-SA 3.0</a>. Credit goes to the UPRR and C. W. McCall for the song.",
-        "archive": "",
-        "video": "",
+        "desc": "A song by C. W. McCall created for use in an advertising campaign by the UPRR in 1970.",
+        "path": "/music/gbrr",
         "completed": false
     }, {
         "name": "Wings of Courage", "origin": "Ao no Kanata no Four Rhythm",
         "icon": "/music/icons/woc.png",
-        "desc": "The song from the opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>. <br/><br/>You can purchase a digital copy of the game on <a href='https://nekonyansoft.com/shop/product/22' rel='external'>NekoNyanSoft's website</a>. A few portions of the game contain adult content, so be advised. An all-ages version is available on <a href='https://store.steampowered.com/app/1044620/Aokana__Four_Rhythms_Across_the_Blue/' rel='external'>Steam</a>, too, at the time of writing.<br/><br/>Credit goes to Sprite for the song and the art used.",
-        "archive": "",
-        "video": "",
+        "desc": "The song from the opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.",
+        "path": "/music/wingsofcourage",
         "completed": false
     }, {
-        "name": "Rail Romanesque", "origin": "Maitetsu",
+        "name": "レイル・ロマネスク / Rail Romanesque", "origin": "Maitetsu",
         "icon": "/music/icons/railromanesque.png",
-        "desc": "This song plays in the trailer and during the Hachiroku Route ending from Lose's 2016 visual novel <i>Maitetsu</i>.<br/><br/>You can purchase a digital copy of the game on <a href='https://store.steampowered.com/app/714800/Maitetsu/' rel='external'>Steam</a>.<br/><br/>Credit goes to Lose and Cura for the song and the art used.",
-        "archive": "",
-        "video": "",
+        "desc": "The main theme for Lose's 2016 visual novel <i>Maitetsu</i>, played during the opening and the trailer.",
+        "path": "/music/railromanesque",
         "completed": false
     },
     
@@ -43,65 +38,32 @@
     {
         "name": "Crossing Way", "origin": "Ao no Kanata no Four Rhythm",
         "icon": "/music/icons/crossingway.png",
-        "desc": "The song played during the grand opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.<br/><br/>You can purchase a digital copy of the game on <a href='https://nekonyansoft.com/shop/product/22' rel='external'>NekoNyanSoft's website</a>. A few portions of the game contain adult content, so be advised. An all-ages version is available on <a href='https://store.steampowered.com/app/1044620/Aokana__Four_Rhythms_Across_the_Blue/' rel='external'>Steam</a>, too, at the time of writing.<br/><br/>Credit goes to Sprite for the song and the art used.",
-        "archive": "/music/archives/Crossing Way.zip",
-        "video": "https://www.youtube.com/watch?v=AW9-PayxCyE",
+        "desc": "The song played during the grand opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.",
+        "path": "/music/crossingway",
         "completed": true
     }, {
         "name": "DEADLINE", "origin": "Epithet Erased",
         "icon": "/music/icons/deadline.png",
-        "desc": "The opening theme song for Brendan \"JelloApocalypse\" Blaber's miniseries <i>Epithet Erased</i>.<br/><br/>You can watch the series for free on <a href=\"https://www.youtube.com/playlist?list=PLHACfIDFF66rxMt46cSoVxUulvL3bKluM\" rel=\"external\">Blaber's YouTube channel</a>.<br/><br/>Credit goes to Plasterbrain, JelloApocalypse, and those involved in the making of <i>Epithet Erased</i> for the song and the art used.",
-        "archive": "/music/archives/Deadline.zip",
-        "video": "https://www.youtube.com/watch?v=KKZS1hGGrFE",
+        "desc": "The opening theme song for Brendan \"JelloApocalypse\" Blaber's miniseries <i>Epithet Erased</i>.",
+        "path": "/music/deadline",
         "completed": true
     }, {
         "name": "My Place", "origin": "Hello, Good-bye",
         "icon": "/music/icons/myplace.png",
-        "desc": "The leitmotif for Natsume Rindou, a character from Lump of Sugar's 2010 visual novel <i>Hello, Good-bye</i>.<br/><br/>You can purchase a digital copy of the game on <a href='https://nekonyansoft.com/shop/product/16' rel='external'>NekoNyanSoft's website</a>. A few portions of the game contain adult content, so be advised. An all-ages version is available on <a href='https://store.steampowered.com/app/1009460/Hello_Goodbye/' rel='external'>Steam</a>, too, at the time of writing.<br/><br/>Credit goes to Lump of Sugar for the song and the art used.",
-        "archive": "/music/archives/My Place.zip",
-        "video": "https://www.youtube.com/watch?v=Uv3jm8ZEre8",
+        "desc": "The leitmotif for Natsume Rindou, a character from Lump of Sugar's 2010 visual novel <i>Hello, Good-bye</i>.",
+        "path": "/music/myplace",
         "completed": true
     }, {
         "name": "IndEC", "origin": "Sid Meier's Civilization III",
         "icon": "/music/icons/indec.png",
-        "desc": "One of the background music tracks from Civ3 that plays while your civilization is in the Industrial Era. When playing as a European civilization, this is also the first song that plays upon entering the Industrial Era.<br/><br/>You can purchase a copy of Civ3 on <a href='https://store.steampowered.com/app/3910/Sid_Meiers_Civilization_III_Complete/' rel='external'>Steam</a>.<br/><br/>Credit goes to Firaxis Games for the song and the art used.",
-        "archive": "/music/archives/IndEC.zip",
-        "video": "https://www.youtube.com/watch?v=9_sfzOSBGgU",
+        "desc": "One of the background music tracks from Civ3 that plays while your civilization is in the Industrial Era.",
+        "path": "/music/indec",
         "completed": true
     }, {
         "name": "名も無き物語 / Nameless Story", "origin": "Hello, Good-bye",
         "icon": "/music/icons/hgb.png",
-        "desc": "The full/extended version of the title screen song from Lump of Sugar's 2010 visual novel <i>Hello, Good-bye</i>.<br/><br/>You can purchase a digital copy of the game on <a href='https://nekonyansoft.com/shop/product/16' rel='external'>NekoNyanSoft's website</a>. A few portions of the game contain adult content, so be advised. An all-ages version is available on <a href='https://store.steampowered.com/app/1009460/Hello_Goodbye/' rel='external'>Steam</a>, too, at the time of writing.<br/><br/>Credit goes to Lump of Sugar for the song and the art used.",
-        "archive": "/music/archives/Nameless Story.zip",
-        "video": "https://www.youtube.com/watch?v=-gn-2ZweRNU",
-        "completed": true
-    }, {
-        "name": "Intruder Alert", "origin": "Team Fortress 2",
-        "icon": "/music/icons/intalt.png",
-        "desc": "<i>This is a legacy work. It is significantly older than my other works, and it does not have the same level of quality as my other works.</i><br/><br/><i>Intruder Alert</i> from <i>Team Fortress 2</i>. It plays as one of the main menu songs upon booting the game, and a portion of it also plays during Valve's <a href='https://www.youtube.com/watch?v=OR4N5OhcY9s' rel='external'><i>Meet the Spy</i></a> short.<br/><br/>Credit goes to Valve Corporation for the song and the art used.",
-        "archive": "/music/archives/Intruder Alert.zip",
-        "video": "https://www.youtube.com/watch?v=tnt0rb9SCt0",
-        "completed": true
-    }, {
-        "name": "Soldier of Dance", "origin": "Team Fortress 2",
-        "icon": "/music/icons/soldofdance.png",
-        "desc": "<i>This is a legacy work. It is significantly older than my other works, and it does not have the same level of quality as my other works.</i><br/><br/>The song that plays when using the Kazotsky Kick taunt in-game.<br/><br/>Credit goes to Valve Corporation for the song and the art used.",
-        "archive": "/music/archives/Soldier of Dance.zip",
-        "video": "https://www.youtube.com/watch?v=bPF_hMIcQqE",
-        "completed": true
-    }, {
-        "name": "Megalovania", "origin": "Undertale",
-        "icon": "/music/icons/sans-3_1.png",
-        "desc": "<i>This is a legacy work. It is significantly older than my other works, and it does not have the same level of quality as my other works.</i><br/><br/>An arrangement of the song <i>Megalovania</i> as played during the battle against Sans in Toby Fox's 2015 indie title <i>Undertale</i>. This particular work is based on <a href='https://musescore.com/jestermusician/scores/1379956' rel='external'>an arrangement made by JesterMusician</a>.<br/><br/>Credit goes to Toby Fox for the song and the art used.",
-        "archive": "/music/archives/Megalovania.zip",
-        "video": "https://www.youtube.com/watch?v=iR07ef746I0",
-        "completed": true
-    }, {
-        "name": "Earth Theme", "origin": "AdVenture Capitalist",
-        "icon": "/music/icons/adcap-2_2.png",
-        "desc": "<i>This is a legacy work. It is significantly older than my other works, and it does not have the same level of quality as my other works.</i><br/><br/>One of the background tracks from the game <i>AdVenture Capitalist</i>. This particular work is based on <a href='https://musescore.com/user/174702/scores/1114581' rel='external'>an arrangement made by Keagan Fisher</a>.<br/><br/>Credit goes to Hyper Hippo for the song and the art used.",
-        "archive": "/music/archives/Earth Theme.zip",
-        "video": "https://www.youtube.com/watch?v=QhDYua3raFU",
+        "desc": "The full/extended version of the title screen song from Lump of Sugar's 2010 visual novel <i>Hello, Good-bye</i>.",
+        "path": "/music/namelessstory",
         "completed": true
     }
 ]

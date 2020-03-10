@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>ECA Attraction - 1230james's Website</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <main class="container-fluid" role="main" id="content">
+        <h2 class="big textcenter">ECA Attraction Theme</h2>
+        <h2 class="textcenter">Emergency Call Ambulance</h2>
+        <div class="textcenter"><img src="/music/icons/eca.png" width="250px" alt=""/></div>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Information</h3>
+            <div class="container-fluid">
+                <h4 class="textcenter">Song Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <p class="indent">This song plays during the cutscene from the attraction mode of the 1999 Sega arcade game <i>Emergency Call Ambulance</i>.<br/><br/>Information for this game is rather sparse, but it surviving arcade cabinets and boards exist, and it may be played on the appropriate emulator. Gameplay can also be found on YouTube.</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Name: Attraction</li>
+                            <li>Source: Emergency Call Ambulance</li>
+                            <li>Composer: SEGA (unknown individual)</li>
+                            <li>Released: 1999</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="container-fluid">
+                <h4 class="textcenter">Transcription Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Released: TBD</li>
+                            <li>Length: TBD</li>
+                            <li>Instruments: TBD</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6">
+                        <p class="textcenter" style="margin-bottom: 0px;">Credit goes to:</p>
+                        <ul>
+                            <li>SEGA for the original song transcribed.</li>
+                            <li>SEGA for the art used.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr/>
+        <!-- <section>
+            <h3 class="textcenter">Download</h3>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="/music/archives/archive.zip" rel="external">Download ZIP</a>
+                <p class="textcenter">File size: TBD</p>
+                <div class="mx-auto" style="width: 60%;">
+                    <h4 class="textcenter">Archive Contents</h4>
+                        <p><b>MP3</b> recording to listen on any MP3 player.
+                        <br/><b>MIDI</b> file for playback on your favorite player.
+                        <br/><b>PDFs</b> of each part and the master score.
+                        <br/><b>MusicXML</b> file for cross-software sharing & remixing.</p>
+                </div>
+                <p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external">CC BY-NC-SA 4.0</a>.</p>
+            </div>
+        </section>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Video</h3>
+            <div class="mx-auto textcenter">
+                <div class="videoWrapper"><div class="videoContainer">
+                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/tokYzx2fxwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div></div>
+            </div>
+        </section>
+        <hr/> -->
+        <div class="mx-auto textcenter"><a class="btn btn-primary" href="/music">Return to Sheet Music Home</a></div>
+    </main>
+    
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
+</body>
+
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Legacy Songs - 1230james's Website</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <main class="container-fluid" role="main" id="content">
+        <h2 class="big textcenter">Legacy Works</h2>
+        <section>
+            <h2 class="textcenter">Overview</h2>
+            <p class="indent">This page consists of some older works I did years ago. While I do not want to permanently hide them, I personally think they are not very representative of my abilities as a transposer, so I do not wish to showcase them to the same degree as my other, higher-quality works. Downloads and links to playback videos are provided where available.</p>
+        </section>
+        <hr/>
+        <section>
+            <h2 class="textcenter">Songs</h2>
+            <div class="songContainer">
+                <div class="song">
+                    <img src="/music/icons/intalt.png" alt=""/>
+                    <h3 class="textcenter">Intruder Alert</h3>
+                    <h4 class="textcenter">Team Fortress 2</h4>
+                    <p class="textcenter"><i>Intruder Alert</i> from <i>Team Fortress 2</i>. It plays as one of the main menu songs upon booting the game, and a portion of it also plays during Valve's <a href='https://www.youtube.com/watch?v=OR4N5OhcY9s' rel='external'><i>Meet the Spy</i></a> short.<br/><br/>Credit goes to Valve Corporation for the song and the art used.</p>
+                </div>
+                <div class="mx-auto textcenter">
+                    <a class="btn btn-primary" href="/music/archives/Intruder Alert.zip" rel="external">Download</a>
+                    <a class="btn btn-primary" href="https://www.youtube.com/watch?v=tnt0rb9SCt0" target="_blank" rel="noopener noreferrer external">Video</a>
+                </div>
+            </div>
+            <div class="songContainer">
+                <div class="song">
+                    <img src="/music/icons/sans-3_1.png" alt=""/>
+                    <h3 class="textcenter">Megalovania</h3>
+                    <h4 class="textcenter">Undertale</h4>
+                    <p class="textcenter">An arrangement of the song <i>Megalovania</i> as played during the battle against Sans in Toby Fox's 2015 indie title <i>Undertale</i>. This particular work is based on <a href='https://musescore.com/jestermusician/scores/1379956' rel='external'>an arrangement made by JesterMusician</a>.<br/><br/>Credit goes to Toby Fox for the song and the art used.</p>
+                </div>
+                <div class="mx-auto textcenter">
+                    <a class="btn btn-primary" href="/music/archives/Megalovania.zip" rel="external">Download</a>
+                    <a class="btn btn-primary" href="https://www.youtube.com/watch?v=iR07ef746I0" target="_blank" rel="noopener noreferrer external">Video</a>
+                </div>
+            </div>
+            <div class="songContainer">
+                <div class="song">
+                    <img src="/music/icons/adcap-2_2.png" alt=""/>
+                    <h3 class="textcenter">Earth Theme</h3>
+                    <h4 class="textcenter">AdVenture Capitalist</h4>
+                    <p class="textcenter">One of the background tracks from the game <i>AdVenture Capitalist</i>. This particular work is based on <a href='https://musescore.com/user/174702/scores/1114581' rel='external'>an arrangement made by Keagan Fisher</a>.<br/><br/>Credit goes to Hyper Hippo for the song and the art used.</p>
+                </div>
+                <div class="mx-auto textcenter">
+                    <a class="btn btn-primary" href="/music/archives/Earth Theme.zip" rel="external">Download</a>
+                    <a class="btn btn-primary" href="https://www.youtube.com/watch?v=QhDYua3raFU" target="_blank" rel="noopener noreferrer external">Video</a>
+                </div>
+            </div>
+            <div class="songContainer">
+                <div class="song">
+                    <img src="/music/icons/soldofdance.png" alt=""/>
+                    <h3 class="textcenter">Soldier of Dance</h3>
+                    <h4 class="textcenter">Team Fortress 2</h4>
+                    <p class="textcenter">The song that plays when using the Kazotsky Kick taunt in-game.<br/><br/>Credit goes to Valve Corporation for the song and the art used.</p>
+                </div>
+                <div class="mx-auto textcenter">
+                    <a class="btn btn-primary" href="/music/archives/Soldier of Dance.zip" rel="external">Download</a>
+                    <a class="btn btn-primary" href="https://www.youtube.com/watch?v=bPF_hMIcQqE" target="_blank" rel="noopener noreferrer external">Video</a>
+                </div>
+            </div>
+        </section>
+        <hr/>
+        <div class="mx-auto textcenter"><a class="btn btn-primary" href="/music">Return to Sheet Music Home</a></div>
+    </main>
+    
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
+</body>
+
+</html>

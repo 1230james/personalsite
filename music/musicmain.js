@@ -10,8 +10,7 @@ Template for one entry in musicList
         origin: "Name of origin of song",
         icon: "path/to/the/icon.png",
         desc: "Description of the song",
-        archive: "path/to/the/archive.zip",
-        video: "url to video",
+        path: "path/to/page",
         completed: boolean
     }
 
@@ -23,9 +22,8 @@ Sample of intended HTML for each song container
             <h4 class="textcenter">origin</h4>
             <p>desc</p>
         </div>
-        <div class="buttons">
-            <button type="button">Download</button>
-            <button type="button">Video</button>
+        <div class="mx-auto textcenter">
+            <a class="btn btn-primary" href="/music">View</a>
         </div>
     </div>
 */
@@ -59,7 +57,7 @@ function getSongContainer(obj) { // oh yeah we out here about to use jQuery like
     
     // Icon
     let iconImg = $("<img src=\"" + obj.icon + "\" alt=\""
-        + obj.name + "\"></img>");
+        + obj.name + "\"/>");
     song.append(iconImg);
     
     // Text
@@ -69,21 +67,12 @@ function getSongContainer(obj) { // oh yeah we out here about to use jQuery like
     song.append(header,subheader,desc);
     container.append(song);
     
-    // Buttons
-    if (obj.completed) {
-        let buttons = $("<div class=\"buttons\"></div>");
-        let downloadBtn = $("<button type=\"button\">Download</button>");
-        let videoBtn = $("<button type=\"button\">Video</button>");
-        downloadBtn.click(function(e) {
-            window.open(obj.archive);
-        });
-        videoBtn.click(function(e) {
-            window.open(obj.video);
-        });
-        buttons.append(downloadBtn,videoBtn);
-        container.append(buttons);
-    }
-    
+    // Button
+    let buttonContainer = $("<div class=\"mx-auto textcenter\"></div>");
+    let viewBtn = $("<a class=\"btn btn-primary\" href=\""+ obj.path + "\">View Info</a>")
+    buttonContainer.append(viewBtn);
+     //container.append(buttonContainer);
+    song.append(buttonContainer);
     return container;
 }
 

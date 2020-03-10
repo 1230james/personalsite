@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>IndEC - 1230james's Website</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <main class="container-fluid" role="main" id="content">
+        <h2 class="big textcenter">IndEC</h2>
+        <h2 class="textcenter">Sid Meier's Civilization III</h2>
+        <div class="textcenter"><img src="/music/icons/indec.png" width="250px" alt=""/></div>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Information</h3>
+            <div class="container-fluid">
+                <h4 class="textcenter">Song Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <p class="indent">One of the background music tracks from Civ3 that plays while your civilization is in the Industrial Era. When playing as a European civilization, this is also the first song that plays upon entering the Industrial Era.<br/><br/>You can purchase a copy of Civ3 on <a href='https://store.steampowered.com/app/3910/Sid_Meiers_Civilization_III_Complete/' rel='external'>Steam</a>.</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Name: IndEC (as referenced in the game files)</li>
+                            <li>Source: Sid Meier's Civilization III</li>
+                            <li>Composer: Roger Briggs</li>
+                            <li>Released: 2001</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="container-fluid">
+                <h4 class="textcenter">Transcription Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Released: June 5, 2019</li>
+                            <li>Length: 5m19s - 164 measures</li>
+                            <li>Instruments: 11</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6">
+                        <p class="textcenter" style="margin-bottom: 0px;">Credit goes to:</p>
+                        <ul>
+                            <li>Firaxis & Roger Briggs for the original song transcribed.</li>
+                            <li>Firaxis & the Civ3 art team members for the art used.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Download</h3>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="/music/archives/IndEC.zip" rel="external">Download ZIP</a>
+                <p class="textcenter">File size: 6.41 MB</p>
+                <div class="mx-auto" style="width: 60%;">
+                    <h4 class="textcenter">Archive Contents</h4>
+                        <p><b>MP3</b> recording to listen on any MP3 player.
+                        <br/><b>MIDI</b> file for playback on your favorite player.
+                        <br/><b>PDFs</b> of each part and the master score.
+                        <br/><b>MusicXML</b> file for cross-software sharing & remixing.
+                        <br/><b>MSCZ</b> file for sharing & remixing with MuseScore.</p>
+                </div>
+                <p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external">CC BY-NC-SA 4.0</a>.</p>
+            </div>
+        </section>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Video</h3>
+            <div class="mx-auto textcenter">
+                <div class="videoWrapper"><div class="videoContainer">
+                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/9_sfzOSBGgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div></div>
+            </div>
+        </section>
+        <hr/>
+        <div class="mx-auto textcenter"><a class="btn btn-primary" href="/music">Return to Sheet Music Home</a></div>
+    </main>
+    
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
+</body>
+
+</html>
