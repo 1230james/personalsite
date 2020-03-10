@@ -20,13 +20,13 @@
             <div class="container-fluid musicshowcase">
                 <div class="row">
                     <div class="col-xs-6 col-md-6">
-                        <h3 class="textcenter"><b><u>Featured Work</b></u></h3>
+                        <h3 class="textcenter"><b><u>Featured Work</u></b></h3>
                         <h4 class="textcenter">My Place</h4>
                         <div class="mx-auto textcenter"><a href="/music/myplace"><img src="/music/icons/myplace.png" alt="Click to view sheet details"/></a></div>
                         <p class="textcenter">The leitmotif for Natsume Rindou, a character from Lump of Sugar's 2010 visual novel <i>Hello, Good-bye</i>.</p>
                     </div>
                     <div class="col-xs-6 col-md-6">
-                        <h3 class="textcenter"><b><u>Most Recent</b></u></h3>
+                        <h3 class="textcenter"><b><u>Most Recent</u></b></h3>
                         <h4 class="textcenter">Crossing Way</h4>
                         <div class="mx-auto textcenter"><a href="/music/crossingway"><img src="/music/icons/crossingway.png" alt="Click to view sheet details"/></a></div>
                         <p class="textcenter">The song played during the grand opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.</p>
