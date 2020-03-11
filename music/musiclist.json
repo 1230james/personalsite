@@ -1,11 +1,5 @@
 [
     {
-        "name": "Great at Crime", "origin": "Epithet Erased",
-        "icon": "/music/icons/greatatcrime.png",
-        "desc": "The ending credits theme song for the first several episodes of Brendan \"JelloApocalypse\" Blaber's miniseries <i>Epithet Erased</i>.",
-        "path": "/music/greatatcrime",
-        "completed": false
-    }, {
         "name": "ECA Attraction Theme", "origin": "Emergency Call Ambulance",
         "icon": "/music/icons/eca.png",
         "desc": "The song from the cutscene from the attraction mode of the 1999 Sega arcade game <i>Emergency Call Ambulance</i>.",
@@ -36,6 +30,12 @@
     
     
     {
+        "name": "Great at Crime", "origin": "Epithet Erased",
+        "icon": "/music/icons/greatatcrime.png",
+        "desc": "The ending credits theme song for the first several episodes of Brendan \"JelloApocalypse\" Blaber's miniseries <i>Epithet Erased</i>.",
+        "path": "/music/greatatcrime",
+        "completed": true
+    }, {
         "name": "Crossing Way", "origin": "Ao no Kanata no Four Rhythm",
         "icon": "/music/icons/crossingway.png",
         "desc": "The song played during the grand opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.",
