@@ -60,7 +60,7 @@
             <div class="mx-auto textcenter">
                 <a class="btn btn-primary" href="/music/archives/Crossing Way.zip" class="nosmoothnav" download>Download ZIP</a>
                 <p class="textcenter">File size: 8.69 MB</p>
-                <div class="mx-auto" style="width: 60%;">
+                <div class="mx-auto">
                     <h4 class="textcenter">Archive Contents</h4>
                         <p><b>MP3</b> recording to listen on any MP3 player.
                         <br/><b>MIDI</b> file for playback on your favorite player.

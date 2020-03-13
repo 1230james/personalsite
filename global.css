@@ -25,7 +25,7 @@ body {
 
 /* a (Hyperlinks) */
 body a:link, body a:visited { color: #444 }
-body a:hover { color: #999 }
+body a:hover, body a:active { color: #999 }
 p a, li a { text-decoration: underline }
 
 /* Header text */
@@ -154,6 +154,8 @@ li a.btn {
 .videoWrapper { /* Container goes inside wrapper */
     width: 100%;
     max-width: 50vw;
+    text-align: center;
+    margin: auto;
 }
 .videoContainer {
     position: relative;
