@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Contact Me - 1230james's Website</title>
+    <title>Social & Contact - 1230james's Website</title>
     <meta charset="UTF-8"/>
     <!--#include virtual="/headcommon.html" -->
 </head>
@@ -11,26 +11,35 @@
     <!--#include virtual="/headernav.html" -->
     
     <main class="container-fluid" role="main" id="content">
+        <h2 class="big textcenter">Social Links & Contact Info</h2>
+        <br/>
         <section>
-            <h2 class="big textcenter">Contact Me</h2> <!-- Putting it here to silence HTML validator -->
-            <p class="textcenter">Listed below are various methods to get into touch with me.</p>
-            <p class="textcenter">Methods are listed in order of preference from top to bottom, with the most preferred method at the top.</p>
+            <h2 class="textcenter">Social Links</h2>
+            <h3>Discord</h3>
+            <p class="indent">I have a general purpose Discord server, which serves as a social hang-out and as a support server for my Discord bots. As of writing, it is not very active, but if you need to contact me, this is the best way to do it.</p>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="https://discord.gg/MvEHdmc" target="_blank" rel="noopener noreferrer external">Join my Discord</a>
+            </div>
+            <br/>
+            <h3>YouTube</h3>
+            <p class="indent">All my sheet music have playback videos that are posted to my YouTube channel. It's not a very large channel, but if you came here for music and want to see more and stay updated, consider subscribing and sharing my works with other people.</p>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="https://www.youtube.com/channel/UCXRJSETRXicTzw9ikbn_nIg" target="_blank" rel="noopener noreferrer external">My YouTube Channel</a>
+            </div>
         </section>
         <hr/>
         <section>
+            <h2 class="textcenter">Contact Me</h2>
+            <h3>Discord</h3>
+            <p class="indent">The best way to contact me is through Discord. I prefer to <strong>avoid direct/private messaging</strong>, so please join my server using the link above and get my attention there.</p>
+            <br/>
             <h3>Email</h3>
-            <p><a id="mailto" rel="external" href="">Click here</a> to send a message.</p>
-            <p>Email is being sent to a "buffer" address to protect my primary email. If I feel it is appropriate, then I will move correspondence to my primary email, so do not be surprised if the reply you get is from a different address. I will likely (although it is not guaranteed) send an email from the buffer address to inform you that the conversation is moving to my primary address with my primary address listed for you to verify.</p>
+            <p class="indent" style="margin-bottom:0px;">Send all emails to <strong>contact1230james@gmail.com</strong>. Messages will be sent to a "buffer" address to protect my primary email. If I feel it is appropriate, then I will move correspondence to my primary email, so do not be surprised if the reply you get is from a different address. I will likely (although it is not guaranteed) send an email from the buffer address to inform you that the conversation is moving to my primary address with my primary address listed for you to verify.</p>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="mailto:contact1230james@gmail.com" target="_blank" rel="noopener noreferrer external">Send an Email</a>
+            </div>
             <p>Please note that email responses are <em>not guaranteed;</em> that is, I may read your email, but a reply is not guaranteed.</p>
             <p>If you already have my primary email address, you are free to contact me through that address.</p>
-            
-            <h3>Discord</h3>
-            <p><a rel="external" href="https://discord.gg/MvEHdmc">Click here</a> to join my general purpose Discord server (please beware that there is very little activity, but I am still actively watching it).</p>
-            <p>For anything related to Half Past Noon, it is recommended that you join the Half Past Noon Discord server, which can be found on our <a rel="external" href="http://www.roblox.com/groups/5093769/--">Roblox group page</a>.</p>
-            
-            <h3>Telephone</h3>
-            <p>If, somehow, you have my telephone number (through my résumé, perhaps), then <strong>please refrain from attempting to contact me via voice unless it is absolutely urgent.</strong> I reject virtually every call.</p>
-            <p>If you absolutely must contact me via phone, please keep calling multiple times in a row. If I notice that the same number is persistent on calling me, it will be proof to me that the 500 millionth robo-caller isn't the one trying to call me.</p>
         </section>
     </main>
     
