@@ -20,7 +20,7 @@
         <hr/>
         <section>
             <h2 class="textcenter">Discord Bots</h2>
-            <p class="textcenter">Here is a list of my main <a rel="external" href="https://www.discordapp.com">Discord</a> bots.</p>
+            <p class="textcenter">Here is a list of my main <a target="_blank" rel="noopener noreferrer external" href="https://www.discordapp.com">Discord</a> bots.</p>
             <p class="textcenter">This list does not include all of the bots I have ever made, but the vast majority of my other bots are extremely simple and are not worth mentioning.</p>
             <ul>
                 <li><b>WrightBot</b></li>
@@ -28,13 +28,13 @@
                     <ul>
                         <li>WrightBot is a "fun" (i.e. "just-for-fun") bot inspired by Capcom's Ace Attorney franchise. It's a very simple bot; in only has a few chat commands to post GIF images or randomly generate some accusations, for example.</li>
                         <li>Fun Fact: WrightBot was my very first programming project that I made with a friend in 8th grade to learn JavaScript.</li>
-                        <li><a rel="external" href="https://github.com/1230james/WrightBot">GitHub repository</a><br/><i>WrightBot is undergoing an overhaul to replace the years-old, antiquated code it currently runs on</i></li>
+                        <li><a target="_blank" rel="noopener noreferrer external" href="https://github.com/1230james/WrightBot">GitHub repository</a><br/><i>WrightBot is undergoing an overhaul to replace the years-old, antiquated code it currently runs on</i></li>
                     </ul>
                 </li>
                 <li><b>The Donald</b></li>
                 <li class="nobullet">
                     <ul>
-                        <li>The Donald is also a "fun" bot much like WrightBot in terms of its features and capabilities. The bot was inspired by <a rel="external" href="https://www.reddit.com/user/thewallgrows">a Reddit bot that kept track of the height of an imaginary wall</a>.</li>
+                        <li>The Donald is also a "fun" bot much like WrightBot in terms of its features and capabilities. The bot was inspired by <a target="_blank" rel="noopener noreferrer external" href="https://www.reddit.com/user/thewallgrows">a Reddit bot that kept track of the height of an imaginary wall</a>.</li>
                         <li>I would like to emphasize that <em>I nor this bot are affiliated with Donald Trump and do not intend to convey a political message or stance in any way</em>.</li>
                         <li>There is <strong>no</strong> repository for this bot. Do not ask to see this bot; you will be rejected regardless of who you are (unless I'm ordered to by law).</li>
                         <li>This bot is also no longer online due to limited resources on my part.</li>
@@ -43,7 +43,7 @@
                 <li><b>PilotBot</b></li>
                 <li class="nobullet">
                     <ul>
-                        <li>PilotBot is a utility bot that provides some simple tools to make a few common tasks (e.g. getting current Zulu time or pulling <a rel="external" href="https://en.wikipedia.org/wiki/METAR">METAR</a> reports from online) more convenient to do.</li>
+                        <li>PilotBot is a utility bot that provides some simple tools to make a few common tasks (e.g. getting current Zulu time or pulling <a target="_blank" rel="noopener noreferrer external" href="https://en.wikipedia.org/wiki/METAR">METAR</a> reports from online) more convenient to do.</li>
                         <li>This project is closed-source. Please contact me to view the repository.</li>
                     </ul>
                 </li>

@@ -96,7 +96,7 @@ a.btn:link, a.btn:visited {
     background-color: #444;
     border-color: #444;
 }
-a.btn:hover {
+a.btn:hover, a.btn:active {
     background-color: #666;
     border-color: #666;
 }

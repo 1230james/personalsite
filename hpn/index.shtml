@@ -10,11 +10,11 @@
 <body>
     <!--#include virtual="/headernav.html" -->
     
-    <main class="container-fluid" role="main" id="content">      <!-- what time is it? it's -->
+    <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">Half Past Noon</h2> 
         <section>
             <h2 class="textcenter">What is Half Past Noon?</h2> 
-            <p class="indent"><strong>Half Past Noon</strong>, or HPN, is a small game development group that I founded with a friend of mine. We primarily develop games on the Roblox platform, and you can <a rel="external" href="http://www.roblox.com/groups/5093769/--">visit our Roblox group</a> for more information. Currently, we do not have plans to expand to other platforms in the near future, but it is an avenue we may pursue later.</p>
+            <p class="indent"><strong>Half Past Noon</strong>, or HPN, is a small game development group that I founded with a friend of mine. We primarily develop games on the Roblox platform, and you can <a target="_blank" rel="noopener noreferrer external" href="http://www.roblox.com/groups/5093769/--">visit our Roblox group</a> for more information. Currently, we do not have plans to expand to other platforms in the near future, but it is an avenue we may pursue later.</p>
             <p>Half Past Noon began as a desire between myself and my friend to create our own games. We both had personal projects we wanted to complete, and we decided to create a group to publish our games and future projects under. For myself, I wanted to recreate a roleplaying game I enjoyed as a child that had fallen into obscurity after lack of attention and traffic. My recreation, or "remaster", of that game is the first HPN project and product, and it has seen moderate success, seeing on average over a thousand visits daily.</p>
         </section>
         <hr/>
@@ -23,7 +23,7 @@
             <p class="textcenter">Here is a list of projects we have worked or are currently working on:</p>
             <h3>Roblox</h3>
             <ul>
-                <li><a rel="external" href="https://www.roblox.com/games/3620640349">Blox Attorney: Remastered</a></li>
+                <li><a target="_blank" rel="noopener noreferrer external" href="https://www.roblox.com/games/3620640349">Blox Attorney: Remastered</a></li>
             </ul>
             <h3>Non-Roblox</h3>
             <ul>
