@@ -21,15 +21,15 @@
                 <div class="row">
                     <div class="col-xs-6 col-md-6">
                         <h3 class="textcenter"><b><u>Featured Work</u></b></h3>
-                        <h4 class="textcenter">My Place</h4>
-                        <div class="mx-auto textcenter"><a href="/music/myplace"><img src="/music/icons/myplace.png" alt="Click to view sheet details"/></a></div>
-                        <p class="textcenter">The leitmotif for Natsume Rindou, a character from Lump of Sugar's 2010 visual novel <i>Hello, Good-bye</i>.</p>
-                    </div>
-                    <div class="col-xs-6 col-md-6">
-                        <h3 class="textcenter"><b><u>Most Recent</u></b></h3>
                         <h4 class="textcenter">Great at Crime</h4>
                         <div class="mx-auto textcenter"><a href="/music/greatatcrime"><img src="/music/icons/greatatcrime.png" alt="Click to view sheet details"/></a></div>
                         <p class="textcenter">The ending credits theme song for the first several episodes of Brendan "JelloApocalypse" Blaber's miniseries <i>Epithet Erased</i>.</p>
+                    </div>
+                    <div class="col-xs-6 col-md-6">
+                        <h3 class="textcenter"><b><u>Most Recent</u></b></h3>
+                        <h4 class="textcenter">Rail Romanesque</h4>
+                        <div class="mx-auto textcenter"><a href="/music/railromanesque"><img src="/music/icons/railromanesque.png" alt="Click to view sheet details"/></a></div>
+                        <p class="textcenter">The main theme for Lose's 2016 visual novel <i>Maitetsu</i>, played during the opening for Hachiroku's route and the trailer.</p>
                     </div>
                 </div>
             </div>

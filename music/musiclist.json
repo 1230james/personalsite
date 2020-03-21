@@ -17,12 +17,6 @@
         "desc": "The song from the opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.",
         "path": "/music/wingsofcourage",
         "completed": false
-    }, {
-        "name": "レイル・ロマネスク / Rail Romanesque", "origin": "Maitetsu",
-        "icon": "/music/icons/railromanesque.png",
-        "desc": "The main theme for Lose's 2016 visual novel <i>Maitetsu</i>, played during the opening for Hachiroku's route and the trailer.",
-        "path": "/music/railromanesque",
-        "completed": false
     },
     
     
@@ -30,6 +24,12 @@
     
     
     {
+        "name": "レイル・ロマネスク / Rail Romanesque", "origin": "Maitetsu",
+        "icon": "/music/icons/railromanesque.png",
+        "desc": "The main theme for Lose's 2016 visual novel <i>Maitetsu</i>, played during the opening for Hachiroku's route and the trailer.",
+        "path": "/music/railromanesque",
+        "completed": true
+    }, {
         "name": "Great at Crime", "origin": "Epithet Erased",
         "icon": "/music/icons/greatatcrime.png",
         "desc": "The ending credits theme song for the first several episodes of Brendan \"JelloApocalypse\" Blaber's miniseries <i>Epithet Erased</i>.",
