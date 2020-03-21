@@ -66,6 +66,8 @@
                         <br/><b>MIDI</b> file for playback on your favorite player.
                         <br/><b>PDFs</b> of each part and the master score.
                         <br/><b>MusicXML</b> file for cross-software sharing & remixing.</p>
+                        <h4 class="textcenter">Changes</h4>
+                        <p><b>2020-03-21</b>: Recompiled MusicXML file since it was lacking last-minute changes that were made before the archive was published.</p>
                 </div>
                 <p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external">CC BY-NC-SA 4.0</a>.</p>
             </div>
