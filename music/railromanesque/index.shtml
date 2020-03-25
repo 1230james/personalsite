@@ -59,7 +59,7 @@
             <h3 class="textcenter">Download</h3>
             <div class="mx-auto textcenter">
                 <a class="btn btn-primary" href="/music/archives/Rail Romanesque.zip" class="nosmoothnav" download>Download ZIP</a>
-                <p class="textcenter">File size: 9.45 MB</p>
+                <p class="textcenter">File size: 17.8 MB</p>
                 <div class="mx-auto">
                     <h4 class="textcenter">Archive Contents</h4>
                         <p><b>MP3</b> recording to listen on any MP3 player.
@@ -67,7 +67,8 @@
                         <br/><b>PDFs</b> of each part and the master score.
                         <br/><b>MusicXML</b> file for cross-software sharing & remixing.</p>
                         <h4 class="textcenter">Changes</h4>
-                        <p><b>2020-03-21</b>: Recompiled MusicXML file since it was lacking last-minute changes that were made before the archive was published.</p>
+                        <p><b>2020-03-21</b>: Recompiled MusicXML file since it was lacking last-minute changes that were made before the archive was published.
+                        <br/><b>2020-03-25 <span style="color:red;">(Major Changes)</span></b>: Replaced the vibraphone part with a glockenspiel part and updated/replaced all files in the archive accordingly. Two MP3s, one with the glockenspiel update and one without, are included; see the <code>MP3README.txt</code> file included for more information. Also fixed the floating swing marking in the piano staff on the master/conductor score.</p>
                 </div>
                 <p>Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external">CC BY-NC-SA 4.0</a>.</p>
             </div>
