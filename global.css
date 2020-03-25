@@ -81,6 +81,12 @@ img {
     height: auto;
 }
 
+/* Code text */
+code {
+    color: #444;
+    font-family: monospace;
+}
+
 /* Footer */
 footer {
     padding-top: 10px;
