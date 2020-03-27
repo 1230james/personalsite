@@ -49,6 +49,12 @@
             <h3>Completed</h3>
             <ul id="completedList"></ul>
             <h3>Legacy Works</h3>
+            <ul>
+                <li><a href="#legacy">Intruder Alert</a></li>
+                <li><a href="#legacy">Megalovania</a></li>
+                <li><a href="#legacy">Earth Theme (AdVenture Capitalist)</a></li>
+                <li><a href="#legacy">Soldier of Dance</a></li>
+            </ul>
         </section>
         <hr/>
         <section id="inprogress">

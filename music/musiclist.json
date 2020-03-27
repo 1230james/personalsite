@@ -17,6 +17,12 @@
         "desc": "The song from the opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.",
         "path": "/music/wingsofcourage",
         "completed": false
+    }, {
+        "name": "未来行き☆列車 / Train☆to the Future", "origin": "Maitetsu",
+        "icon": "/music/icons/traintothefuture.png",
+        "desc": "The opening for the grand route of Lose's 2016 visual novel <i>Maitetsu</i>.",
+        "path": "/music/traintothefuture",
+        "completed": false
     },
     
     
