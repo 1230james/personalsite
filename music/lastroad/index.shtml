@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Last Road - 1230james's Website</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <main class="container-fluid" role="main" id="content">
+        <h2 class="big textcenter">Last Road</h2>
+        <h2 class="textcenter">(ロオド・ラスト)<br/>Maitetsu - Last Run!!</h2>
+        <div class="textcenter"><img src="/music/icons/lastroad.png" style="max-width: 250px;" alt=""/></div>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Information</h3>
+            <div class="container-fluid">
+                <h4 class="textcenter">Song Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <p class="indent">The theme from the opening trailer for Lose's upcoming 2020 visual novel <i>Maitetsu - Last Run!!</i>. Not much is known regarding the visual novel in English, but those who can read Japanese can <a href="https://lose.jp/maitetsu/" target="_blank" rel="noopener noreferrer external">visit their website</a> for more information. An English localization has not been confirmed, and probably will not be for some time.</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Name: ロオド・ラスト (Last Road)</li>
+                            <li>Source: Maitetsu - Last Run!!</li>
+                            <li>Composer: 佐久間 きらら (Sakuma Kirara)</li>
+                            <li>Released: 2020</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="container-fluid">
+                <h4 class="textcenter">Transcription Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Released: TBD</li>
+                            <li>Length: TBD</li>
+                            <li>Instruments: TBD</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6">
+                        <p class="textcenter" style="margin-bottom: 0px;">Credit goes to:</p>
+                        <ul>
+                            <li>Lose & Sakuma Kirara for the original song transcribed.</li>
+                            <li>Lose & Cura for the art used.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr/>
+        <!-- <section>
+            <h3 class="textcenter">Download</h3>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="/music/archives/archive.zip" class="nosmoothnav" download>Download ZIP</a>
+                <p class="textcenter">File size: TBD</p>
+                <div class="mx-auto">
+                    <h4 class="textcenter">Archive Contents</h4>
+                    <p><b>MP3</b> recording to listen on any MP3 player.
+                    <br/><b>MIDI</b> file for playback on your favorite player.
+                    <br/><b>PDFs</b> of each part and the master score.
+                    <br/><b>MusicXML</b> file for cross-software sharing & remixing.</p>
+                </div>
+                <p>Published under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external">CC BY-NC-SA 4.0</a>.</p>
+            </div>
+        </section>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Video</h3>
+            <div class="mx-auto textcenter">
+                <div class="videoWrapper"><div class="videoContainer">
+                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/tokYzx2fxwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div></div>
+            </div>
+        </section>
+        <hr/> -->
+        <div class="mx-auto textcenter"><a class="btn btn-primary" href="/music">Return to Sheet Music Home</a></div>
+    </main>
+    
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
+</body>
+
+</html>

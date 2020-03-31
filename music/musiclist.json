@@ -23,6 +23,12 @@
         "desc": "The opening for the grand route of Lose's 2016 visual novel <i>Maitetsu</i>.",
         "path": "/music/traintothefuture",
         "completed": false
+    }, {
+        "name": "ロオド・ラスト / Last Road", "origin": "Maitetsu - Last Run!!",
+        "icon": "/music/icons/lastroad.png",
+        "desc": "The theme from the opening trailer for Lose's upcoming 2020 visual novel <i>Maitetsu - Last Run!!</i>.",
+        "path": "/music/lastroad",
+        "completed": false
     },
     
     
