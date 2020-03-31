@@ -15,7 +15,7 @@
         <section>
             <h2 class="textcenter">Overview</h2>
             <p class="indent">This page consists of some older works I did years ago. While I do not want to permanently hide them, I personally think they are not very representative of my abilities as a transposer, so I do not wish to showcase them to the same degree as my other, higher-quality works. Downloads and links to playback videos are provided where available.</p>
-            <p class="textcenter">All works on this page are published under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external">CC BY-NC-SA 4.0</a>.</p>
+            <p class="textcenter">All works on this page are published under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer external">CC BY-NC-SA 4.0</a>.</p>
         </section>
         <hr/>
         <section>
@@ -28,7 +28,7 @@
                     <p class="textcenter"><i>Intruder Alert</i> from <i>Team Fortress 2</i>. It plays as one of the main menu songs upon booting the game, and a portion of it also plays during Valve's <a href='https://www.youtube.com/watch?v=OR4N5OhcY9s' rel='external'><i>Meet the Spy</i></a> short.<br/><br/>Credit goes to Valve Corporation for the song and the art used.</p>
                 </div>
                 <div class="mx-auto textcenter">
-                    <a class="btn btn-primary" href="/music/archives/Intruder Alert.zip" rel="external">Download</a>
+                    <a class="btn btn-primary" href="/music/archives/Intruder Alert.zip" target="_blank" rel="noopener noreferrer external">Download</a>
                     <a class="btn btn-primary" href="https://www.youtube.com/watch?v=tnt0rb9SCt0" target="_blank" rel="noopener noreferrer external">Video</a>
                 </div>
             </div>
@@ -40,7 +40,7 @@
                     <p class="textcenter">An arrangement of the song <i>Megalovania</i> as played during the battle against Sans in Toby Fox's 2015 indie title <i>Undertale</i>. This particular work is based on <a href='https://musescore.com/jestermusician/scores/1379956' rel='external'>an arrangement made by JesterMusician</a>.<br/><br/>Credit goes to Toby Fox for the song and the art used.</p>
                 </div>
                 <div class="mx-auto textcenter">
-                    <a class="btn btn-primary" href="/music/archives/Megalovania.zip" rel="external">Download</a>
+                    <a class="btn btn-primary" href="/music/archives/Megalovania.zip" target="_blank" rel="noopener noreferrer external">Download</a>
                     <a class="btn btn-primary" href="https://www.youtube.com/watch?v=iR07ef746I0" target="_blank" rel="noopener noreferrer external">Video</a>
                 </div>
             </div>
@@ -52,7 +52,7 @@
                     <p class="textcenter">One of the background tracks from the game <i>AdVenture Capitalist</i>. This particular work is based on <a href='https://musescore.com/user/174702/scores/1114581' rel='external'>an arrangement made by Keagan Fisher</a>.<br/><br/>Credit goes to Hyper Hippo for the song and the art used.</p>
                 </div>
                 <div class="mx-auto textcenter">
-                    <a class="btn btn-primary" href="/music/archives/Earth Theme.zip" rel="external">Download</a>
+                    <a class="btn btn-primary" href="/music/archives/Earth Theme.zip" target="_blank" rel="noopener noreferrer external">Download</a>
                     <a class="btn btn-primary" href="https://www.youtube.com/watch?v=QhDYua3raFU" target="_blank" rel="noopener noreferrer external">Video</a>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                     <p class="textcenter">The song that plays when using the Kazotsky Kick taunt in-game.<br/><br/>Credit goes to Valve Corporation for the song and the art used.</p>
                 </div>
                 <div class="mx-auto textcenter">
-                    <a class="btn btn-primary" href="/music/archives/Soldier of Dance.zip" rel="external">Download</a>
+                    <a class="btn btn-primary" href="/music/archives/Soldier of Dance.zip" target="_blank" rel="noopener noreferrer external">Download</a>
                     <a class="btn btn-primary" href="https://www.youtube.com/watch?v=bPF_hMIcQqE" target="_blank" rel="noopener noreferrer external">Video</a>
                 </div>
             </div>

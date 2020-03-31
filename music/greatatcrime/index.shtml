@@ -21,7 +21,7 @@
                 <h4 class="textcenter">Song Details</h4>
                 <div class="row">
                     <div class="col-lg-6">
-                        <p class="indent">The ending credits theme song for the first several episodes of Brendan "JelloApocalypse" Blaber's miniseries <i>Epithet Erased</i>.<br/><br/>You can watch the series for free on <a href="https://www.youtube.com/playlist?list=PLHACfIDFF66rxMt46cSoVxUulvL3bKluM" rel="external">Blaber's YouTube channel</a>.</p>
+                        <p class="indent">The ending credits theme song for the first several episodes of Brendan "JelloApocalypse" Blaber's miniseries <i>Epithet Erased</i>.<br/><br/>You can watch the series for free on <a href="https://www.youtube.com/playlist?list=PLHACfIDFF66rxMt46cSoVxUulvL3bKluM" target="_blank" rel="noopener noreferrer external">Blaber's YouTube channel</a>.</p>
                     </div>
                     <div class="col-lg-6">
                         <ul>
@@ -69,7 +69,7 @@
                         <h4 class="textcenter">Changes</h4>
                         <p><b>2020-03-13</b>: Fixed some stray marks in the drumset part.</p>
                 </div>
-                <p>Published under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external">CC BY-NC-SA 4.0</a>.</p>
+                <p>Published under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer external">CC BY-NC-SA 4.0</a>.</p>
             </div>
         </section>
         <hr/>
