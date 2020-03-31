@@ -12,7 +12,7 @@
     
     <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">Nameless Story</h2>
-        <h2 class="textcenter">(名も無き物語)<br/>Hello Good-bye</h2>
+        <h2 class="textcenter">(名も無き物語)<br/><i>Hello Good-bye</i></h2>
         <div class="textcenter"><img src="/music/icons/hgb.png" style="max-width: 250px;" alt=""/></div>
         <hr/>
         <section>

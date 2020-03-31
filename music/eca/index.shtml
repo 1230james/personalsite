@@ -12,7 +12,7 @@
     
     <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">ECA Attraction Theme</h2>
-        <h2 class="textcenter">Emergency Call Ambulance</h2>
+        <h2 class="textcenter"><i>Emergency Call Ambulance</i></h2>
         <div class="textcenter"><img src="/music/icons/eca.png" style="max-width: 250px;" alt=""/></div>
         <hr/>
         <section>

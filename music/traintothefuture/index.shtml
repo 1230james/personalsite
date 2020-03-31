@@ -12,7 +12,7 @@
     
     <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">Train☆to the Future</h2>
-        <h2 class="textcenter">(未来行き☆列車)<br/>Maitetsu</h2>
+        <h2 class="textcenter">(未来行き☆列車)<br/><i>Maitetsu</i></h2>
         <div class="textcenter"><img src="/music/icons/traintothefuture.png" style="max-width: 250px;" alt=""/></div>
         <hr/>
         <section>

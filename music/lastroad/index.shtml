@@ -12,7 +12,7 @@
     
     <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">Last Road</h2>
-        <h2 class="textcenter">(ロオド・ラスト)<br/>Maitetsu - Last Run!!</h2>
+        <h2 class="textcenter">(ロオド・ラスト)<br/><i>Maitetsu - Last Run!!</i></h2>
         <div class="textcenter"><img src="/music/icons/lastroad.png" style="max-width: 250px;" alt=""/></div>
         <hr/>
         <section>

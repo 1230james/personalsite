@@ -12,7 +12,7 @@
     
     <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">My Place</h2>
-        <h2 class="textcenter">Hello, Good-bye</h2>
+        <h2 class="textcenter"><i>Hello, Good-bye</i></h2>
         <div class="textcenter"><img src="/music/icons/myplace.png" style="max-width: 250px;" alt=""/></div>
         <hr/>
         <section>
