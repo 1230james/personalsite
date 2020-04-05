@@ -6,12 +6,6 @@
         "path": "/music/eca",
         "completed": false
     }, {
-        "name": "Great Big Rollin' Railroad", "origin": "Union Pacific Railroad",
-        "icon": "/music/icons/gbrr.png",
-        "desc": "A song by C. W. McCall created for use in an advertising campaign by the UPRR in 1970.",
-        "path": "/music/gbrr",
-        "completed": false
-    }, {
         "name": "Wings of Courage", "origin": "Ao no Kanata no Four Rhythm",
         "icon": "/music/icons/woc.png",
         "desc": "The song from the opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.",
@@ -36,6 +30,12 @@
     
     
     {
+        "name": "Great Big Rollin' Railroad", "origin": "Union Pacific Railroad",
+        "icon": "/music/icons/gbrr.png",
+        "desc": "A song by C. W. McCall created for use in an advertising campaign by the UPRR in 1970.",
+        "path": "/music/gbrr",
+        "completed": true
+    }, {
         "name": "レイル・ロマネスク / Rail Romanesque", "origin": "Maitetsu",
         "icon": "/music/icons/railromanesque.png",
         "desc": "The main theme for Lose's 2016 visual novel <i>Maitetsu</i>, played during the opening for Hachiroku's route and the trailer.",

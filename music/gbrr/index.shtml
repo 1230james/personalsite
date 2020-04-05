@@ -39,9 +39,9 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <ul>
-                            <li>Released: TBD</li>
-                            <li>Length: TBD</li>
-                            <li>Instruments: TBD</li>
+                            <li>Released: April 5, 2020</li>
+                            <li>Length: 2m10s - 47 measures</li>
+                            <li>Instruments: 7</li>
                         </ul>
                     </div>
                     <div class="col-lg-6">
@@ -55,11 +55,11 @@
             </div>
         </section>
         <hr/>
-        <!-- <section>
+        <section>
             <h3 class="textcenter">Download</h3>
             <div class="mx-auto textcenter">
-                <a class="btn btn-primary" href="/music/archives/archive.zip" class="nosmoothnav" download>Download ZIP</a>
-                <p class="textcenter">File size: TBD</p>
+                <a class="btn btn-primary" href="/music/archives/Great Big Rollin' Railroad.zip" class="nosmoothnav" download>Download ZIP</a>
+                <p class="textcenter">File size: 5.15 MB</p>
                 <div class="mx-auto">
                     <h4 class="textcenter">Archive Contents</h4>
                         <p><b>MP3</b> recording to listen on any MP3 player.
@@ -75,11 +75,11 @@
             <h3 class="textcenter">Video</h3>
             <div class="mx-auto textcenter">
                 <div class="videoWrapper"><div class="videoContainer">
-                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/tokYzx2fxwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/px8vTxfBFiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div></div>
             </div>
         </section>
-        <hr/> -->
+        <hr/>
         <div class="mx-auto textcenter"><a class="btn btn-primary" href="/music">Return to Sheet Music Home</a></div>
     </main>
     
