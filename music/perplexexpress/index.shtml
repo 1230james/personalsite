@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Perplex Express - 1230james's Website</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <main class="container-fluid" role="main" id="content">
+        <h2 class="big textcenter">Perplex Express</h2>
+        <h2 class="textcenter"><i>Mario Party 8</i></h2>
+        <div class="textcenter"><img src="/music/icons/perplexexpress.png" style="max-width: 250px;" alt=""/></div>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Information</h3>
+            <div class="container-fluid">
+                <h4 class="textcenter">Song Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <p class="indent">The background music from the board Shy Guy's Perplex Express from the 2007 video game <i>Mario Party 8</i>.</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Name: Perplex Express</li>
+                            <li>Source: Mario Party 8</li>
+                            <li>Composer: Yoshihiro Tsukahara</li>
+                            <li>Released: 2007</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="container-fluid">
+                <h4 class="textcenter">Transcription Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Released: TBD</li>
+                            <li>Length: TBD</li>
+                            <li>Instruments: TBD</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6">
+                        <p class="textcenter" style="margin-bottom: 0px;">Credit goes to:</p>
+                        <ul>
+                            <li>Nintendo and Yoshihiro Tsukahara for the original song transcribed.</li>
+                            <li>Nintendo for the art used.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr/>
+        <!-- <section>
+            <h3 class="textcenter">Download</h3>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="/music/archives/archive.zip" class="nosmoothnav" download>Download ZIP</a>
+                <p class="textcenter">File size: TBD</p>
+                <div class="mx-auto">
+                    <h4 class="textcenter">Archive Contents</h4>
+                    <p><b>MP3</b> recording to listen on any MP3 player.
+                    <br/><b>MIDI</b> file for playback on your favorite player.
+                    <br/><b>PDFs</b> of each part and the master score.
+                    <br/><b>MusicXML</b> file for cross-software sharing & remixing.</p>
+                </div>
+                <p>Published under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer external">CC BY-NC-SA 4.0</a>.</p>
+            </div>
+        </section>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Video</h3>
+            <div class="mx-auto textcenter">
+                <div class="videoWrapper"><div class="videoContainer">
+                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/tokYzx2fxwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div></div>
+            </div>
+        </section>
+        <hr/> -->
+        <div class="mx-auto textcenter"><a class="btn btn-primary" href="/music">Return to Sheet Music Home</a></div>
+    </main>
+    
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
+</body>
+
+</html>
