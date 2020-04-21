@@ -5,7 +5,6 @@
     <title>Sheet Music - 1230james's Website</title>
     <meta charset="UTF-8"/>
     <!--#include virtual="/headcommon.html" -->
-    <script id="musicmain.js" src="musicmain.js"></script>
 </head>
 
 <body>
@@ -16,8 +15,8 @@
         <section>
             <h2 class="textcenter">Welcome to James's Sheet Music!</h2>
             <p class="indent">This page is where you can find all my music transcriptions, new and old. I use <a href="https://musescore.com" target="_blank" rel="noopener noreferrer external">MuseScore</a> to create all my scores, and then I upload them here for the public to enjoy. I always strive to make my transcriptions sound as true to the original song as possible, although I am by no means a professional and I also edit sections that sound awkward when transcribed, so 100% accuracy is not guaranteed.</p>
-        <hr style="width:100%;"/>
-            <div class="container-fluid musicshowcase">
+            <hr style="width:100%;"/>
+            <div class="container-fluid musicshowcase"> <!-- TODO: Use CGI for the showcase -->
                 <div class="row">
                     <div class="col-xs-6 col-md-6">
                         <h3 class="textcenter"><b><u>Featured Work</u></b></h3>
@@ -33,7 +32,7 @@
                     </div>
                 </div>
             </div>
-        <hr style="width:100%;"/>
+            <hr style="width:100%;"/>
             <p class="indent"><em>No profits</em> are made from any of my works, nor do I ever intend to. Music transcription is purely a passion project/hobby I enjoy doing with songs I love listening to alongside my other hobbies. All my works are available to the public free of charge.</p>
             <p class="indent">While it is not required, I highly recommend you (1) check out the sources for the songs I transcribe to help out the original creators, and (2) share this page and/or my works with other people. It makes me happy knowing that there are people out there who are listening to what I've done.</p>
             <p class="textcenter"><b>Except where explicitly stated otherwise, each work is published here and licensed to you under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer external">CC BY-NC-SA 4.0</a>.</b></p>
@@ -43,11 +42,14 @@
             <h2 class="textcenter">Table of Contents</h2>
             <p class="textcenter">Songs are generally ordered from newest to oldest, but are otherwise not sorted in any particular order.</p>
             <p class="textcenter">Click the <strong>View Info</strong> button to see more information about a song. Downloads for completed works are available through each song's info page.</p>
-            <p class="textcenter" id="javascriptnotice"><em>Please enable JavaScript on your browser, or the table of contents will be unable to load.</em></p>
             <h3>In-Progress</h3>
-            <ul id="inProgressList"></ul>
+            <ul id="inProgressList">
+                <!--#include virtual="scripts/InProgressList.cgi" -->
+            </ul>
             <h3>Completed</h3>
-            <ul id="completedList"></ul>
+            <ul id="completedList">
+                <!--#include virtual="scripts/CompletedList.cgi" -->
+            </ul>
             <h3>Legacy Works</h3>
             <ul>
                 <li><a href="#legacy">Intruder Alert</a></li>
@@ -60,11 +62,13 @@
         <section id="inprogress">
             <h2 class="textcenter">In-Progress</h2>
             <p class="textcenter">Works that are currently in progress and will be ready in the future.</p>
+            <!--#include virtual="scripts/InProgressSongs.cgi" -->
         </section>
         <hr/>
         <section id="completed">
             <h2 class="textcenter">Completed</h2>
             <p class="textcenter">Works that are completed and ready for viewing.</p>
+            <!--#include virtual="scripts/CompletedSongs.cgi" -->
         </section>
         <hr/>
         <section id="legacy">
