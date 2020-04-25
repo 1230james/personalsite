@@ -41,12 +41,6 @@
         "desc": "One of the three types of the song Joint Reasoning: The Great Deduction from Capcom's 2017 game <i>The Great Ace Attorney</i>.",
         "path": "/music/jointreasoning",
         "completed": false
-    }, {
-        "name": "Perplex Express", "origin": "Mario Party 8",
-        "icon": "/music/icons/perplexexpress.png",
-        "desc": "The background music from the board Shy Guy's Perplex Express from the 2007 video game <i>Mario Party 8</i>.",
-        "path": "/music/perplexexpress",
-        "completed": false
     },
     
     
@@ -54,6 +48,12 @@
     
     
     {
+        "name": "Perplex Express", "origin": "Mario Party 8",
+        "icon": "/music/icons/perplexexpress.png",
+        "desc": "The background music from the board Shy Guy's Perplex Express from the 2007 video game <i>Mario Party 8</i>.",
+        "path": "/music/perplexexpress",
+        "completed": true
+    }, {
         "name": "Great Big Rollin' Railroad", "origin": "Union Pacific Railroad",
         "icon": "/music/icons/gbrr.png",
         "desc": "A song by C. W. McCall created for use in an advertising campaign by the UPRR in 1970.",
