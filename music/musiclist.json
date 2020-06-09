@@ -41,6 +41,12 @@
         "desc": "One of the three types of the song Joint Reasoning: The Great Deduction from Capcom's 2017 game <i>The Great Ace Attorney</i>.",
         "path": "/music/jointreasoning",
         "completed": false
+    }, {
+        "name": "Speed of Light", "origin": "Arknights",
+        "icon": "/music/icons/speedoflight.png",
+        "desc": "The song from Yostar's promotional video for the Code of Brawl event for Yostar's 2019 mobile tower defense gacha game <i>Arknights</i>.",
+        "path": "/music/speedoflight",
+        "completed": false
     },
     
     
