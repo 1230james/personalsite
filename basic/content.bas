@@ -15,8 +15,8 @@
 150 PRINT "<div class='mx-auto textcenter'>"
 160 PRINT "<a class='btn btn-primary' target='_blank' rel='";
 170 PRINT "noopener noreferrer external' href='";
-180 PRINT "https://github.com/1230james/personalsite/blob/basic-cgi/basic/";
-190 PRINT "content.cgi'>Source Code</a>"
+180 PRINT "https://github.com/1230james/personalsite/blob/basic-cgi/basic/'>";
+190 PRINT "Source Code</a>"
 200 PRINT "</div>"
 210 PRINT "<p class='textcenter'><br/><br/><br/>";
 220 PRINT "<small><small>oh god what have i done</small></small></p>"

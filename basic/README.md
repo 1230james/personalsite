@@ -1,4 +1,4 @@
-# CGM BASIC Test Information
+# CBM BASIC CGI Test Information
 
 ## WTF is this???
 A [friend of mine](https://github.com/halocupcake) showed me a [repository for a portable CBM BASIC interpreter](https://github.com/mist64/cbmbasic). I never had an opportunity to mess around with Commodore BASIC beforehand, and seeing that I could use this as a script interpreter on Unix, I decided to try to make a CGI page with it.
@@ -23,4 +23,5 @@ For this reason, `loader.cgi` has the minimum amount of instructions to get the 
 
 ## Would you recommend using Commodore BASIC for CGI?
 No.
+
 ~~but if you're like me and you're really bored then sure go knock yourself out~~
