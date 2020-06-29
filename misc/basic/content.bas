@@ -7,7 +7,7 @@
 70 PRINT "</span>"
 80 REM =========================================================================
 90 REM Page Content
-100 PRINT "<h2 class='big textcenter'><b>CBM BASIC CGI Test</b></h2>"
+100 PRINT "<h2 class='big textcenter'>CBM BASIC CGI Test</h2>"
 110 PRINT "<p class='textcenter'>If you're reading this, then I am proud to ";
 120 PRINT "inform you that this text was delivered to you using CGI that's ";
 130 PRINT "running Commodore BASIC!</p>"
