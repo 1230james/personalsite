@@ -23,6 +23,17 @@ ul ul ul {
     padding-left: 40px;
 }
 
+/* Class for showing only on narrow screens */
+.mobileshow {
+    display: initial;
+}
+
+/* Class for hiding only on narrow screens */
+.mobilehide {
+    display: none;
+}
+
+
 /* song containers */
 .song img {
     max-width: 200px;
