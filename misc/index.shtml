@@ -12,7 +12,6 @@
     
     <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">Miscellaneous</h2>
-        <br/>
         <section>
             <h2 class="textcenter">Overview</h2>
             <p class="indent">On this page, you can find miscellaneous items that I would like to share with you, but that I don't think deserves its own full section on the website. Some items may get its own standalone page stemming off from this one, but otherwise, you will only find them under the Miscellaneous section.</p>
@@ -25,11 +24,12 @@
                 <a class="btn btn-primary" href="./basic">BASIC CGI</a>
             </div>
         </section>
+        <br/>
         <section>
             <h2 class="textcenter">3DS Themes</h2>
             <p class="textcenter">I've tried my hand at making 3DS themes. You'll be able to find them here in the future.</p>
             <div class="mx-auto textcenter">
-                <a class="btn btn-primary" href="">Coming Soon</a>
+                <a class="btn btn-primary" href="#">Coming Soon</a>
             </div>
         </section>
     </main>
