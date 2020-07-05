@@ -18,12 +18,6 @@
         "path": "/music/traintothefuture",
         "completed": false
     }, {
-        "name": "ロオド・ラスト / Last Road", "origin": "Maitetsu - Last Run!!",
-        "icon": "/music/icons/lastroad.png",
-        "desc": "The theme from the opening trailer for Lose's upcoming 2020 visual novel <i>Maitetsu - Last Run!!</i>.",
-        "path": "/music/lastroad",
-        "completed": false
-    }, {
         "name": "Main Theme (Emergency 4)", "origin": "Emergency 4",
         "icon": "/music/icons/em4.png",
         "desc": "The main menu theme from Sixteen Tons Entertainment's video game <i>Emergency 4: Global Fighters for Life</i>.",
@@ -54,6 +48,12 @@
     
     
     {
+        "name": "ロオド・ラスト / Last Road", "origin": "Maitetsu - Last Run!!",
+        "icon": "/music/icons/lastroad.png",
+        "desc": "The theme from the opening trailer for Lose's upcoming 2020 visual novel <i>Maitetsu - Last Run!!</i>.",
+        "path": "/music/lastroad",
+        "completed": true
+    }, {
         "name": "Perplex Express", "origin": "Mario Party 8",
         "icon": "/music/icons/perplexexpress.png",
         "desc": "The background music from the board Shy Guy's Perplex Express from the 2007 video game <i>Mario Party 8</i>.",
