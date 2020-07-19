@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Moetteke! Sailor Fuku - 1230james's Website</title>
+    <title>Motteke! Sailor Fuku - 1230james's Website</title>
     <meta charset="UTF-8"/>
     <!--#include virtual="/headcommon.html" -->
 </head>
@@ -11,7 +11,7 @@
     <!--#include virtual="/headernav.html" -->
     
     <main class="container-fluid" role="main" id="content">
-        <h2 class="big textcenter">Moetteke! Sailor Fuku</h2>
+        <h2 class="big textcenter">Motteke! Sailor Fuku</h2>
         <h2 class="textcenter"><i>Lucky Star</i></h2>
         <div class="textcenter"><img src="/music/icons/serafuku.png" style="max-width: 250px;" alt=""/></div>
         <hr/>
@@ -25,7 +25,7 @@
                     </div>
                     <div class="col-lg-6">
                         <ul>
-                            <li>Name: もってけ！セーラーふく (Moetteke! Sailor Fuku)</li>
+                            <li>Name: もってけ！セーラーふく (Motteke! Sailor Fuku)</li>
                             <li>Source: Lucky Star</li>
                             <li>Composer: 神前 暁 (Satoru Kōsaki)</li>
                             <li>Released: 2007</li>
