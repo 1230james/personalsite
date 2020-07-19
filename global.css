@@ -141,7 +141,7 @@ li a.btn {
 }
 .song h3 {
     margin-bottom: 2px;
-    font-size: x-large;
+    font-size: 150%;
     font-weight: bold;
     text-decoration: underline;
 }
@@ -149,7 +149,7 @@ li a.btn {
     margin-top: 2px;
     font-weight: normal;
     font-style: italic;
-    font-size: large;
+    font-size: 113%;
 }
 .song img {
     max-width: 200px;
