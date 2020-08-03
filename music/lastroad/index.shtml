@@ -59,13 +59,15 @@
             <h3 class="textcenter">Download</h3>
             <div class="mx-auto textcenter">
                 <a class="btn btn-primary" href="/music/archives/Last Road.zip" class="nosmoothnav" download>Download ZIP</a>
-                <p class="textcenter">File size: 12.1 MB</p>
+                <p class="textcenter">File size: 11.9 MB</p>
                 <div class="mx-auto">
                     <h4 class="textcenter">Archive Contents</h4>
                     <p><b>MP3</b> recording to listen on any MP3 player.
                     <br/><b>MIDI</b> file for playback on your favorite player.
                     <br/><b>PDFs</b> of each part and the master score.
                     <br/><b>MSCZ</b> file for sharing & remixing in MuseScore.</p>
+                    <h4 class="textcenter">Changes</h4>
+                        <p><b>2020-08-03</b>: Removed crackling sounds present during louder sections in the MP3 file.</p>
                 </div>
                 <p>Published under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer external">CC BY-NC-SA 4.0</a>.</p>
             </div>
