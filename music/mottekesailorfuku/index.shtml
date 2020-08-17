@@ -39,9 +39,9 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <ul>
-                            <li>Released: TBD</li>
-                            <li>Length: TBD</li>
-                            <li>Instruments: TBD</li>
+                            <li>Released: August 17, 2020</li>
+                            <li>Length: 4m12s - 157 measures</li>
+                            <li>Instruments: 11</li>
                         </ul>
                     </div>
                     <div class="col-lg-6">
@@ -55,17 +55,17 @@
             </div>
         </section>
         <hr/>
-        <!-- <section>
+        <section>
             <h3 class="textcenter">Download</h3>
             <div class="mx-auto textcenter">
-                <a class="btn btn-primary" href="/music/archives/archive.zip" class="nosmoothnav" download>Download ZIP</a>
-                <p class="textcenter">File size: TBD</p>
+                <a class="btn btn-primary" href="/music/archives/Motteke! Sailor Fuku.zip" class="nosmoothnav" download>Download ZIP</a>
+                <p class="textcenter">File size: 9.24 MB</p>
                 <div class="mx-auto">
                     <h4 class="textcenter">Archive Contents</h4>
                     <p><b>MP3</b> recording to listen on any MP3 player.
                     <br/><b>MIDI</b> file for playback on your favorite player.
                     <br/><b>PDFs</b> of each part and the master score.
-                    <br/><b>MusicXML</b> file for cross-software sharing & remixing.</p>
+                    <br/><b>MSCZ</b> file for sharing & remixing in MuseScore.</p>
                 </div>
                 <p>Published under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer external">CC BY-NC-SA 4.0</a>.</p>
             </div>
@@ -75,11 +75,11 @@
             <h3 class="textcenter">Video</h3>
             <div class="mx-auto textcenter">
                 <div class="videoWrapper"><div class="videoContainer">
-                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/tokYzx2fxwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/UNVZffZcE7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div></div>
             </div>
         </section>
-        <hr/> -->
+        <hr/>
         <div class="mx-auto textcenter"><a class="btn btn-primary" href="/music">Return to Sheet Music Home</a></div>
     </main>
     
