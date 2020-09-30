@@ -59,7 +59,7 @@
             <h3 class="textcenter">Download</h3>
             <div class="mx-auto textcenter">
                 <a class="btn btn-primary" href="/music/archives/Motteke! Sailor Fuku.zip" class="nosmoothnav" download>Download ZIP</a>
-                <p class="textcenter">File size: 9.28 MB</p>
+                <p class="textcenter">File size: 9.67 MB</p>
                 <div class="mx-auto">
                     <h4 class="textcenter">Archive Contents</h4>
                     <p><b>MP3</b> recording to listen on any MP3 player.
@@ -67,6 +67,7 @@
                     <br/><b>PDFs</b> of each part and the master score.
                     <br/><b>MSCZ</b> file for sharing & remixing in MuseScore.</p>
                     <h4 class="textcenter">Changes</h4>
+					<p><b>2020-09-30</b>: Fixed typos on the master score PDF, the MP3, and the MSCZ where it said "Composted" instead of "Composed".</p>
                     <p><b>2020-08-20</b>: Added some notes in the Bass Guitar part that were missing in measures 115 and 116. All files have been updated to reflect the change.</p>
                 </div>
                 <p>Published under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer external">CC BY-NC-SA 4.0</a>.</p>
