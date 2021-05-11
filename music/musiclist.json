@@ -37,8 +37,8 @@
         "completed": false
     }, {
         "name": "Speed of Light", "origin": "Arknights",
-        "icon": "/music/icons/speedoflight.png",
-        "desc": "The song from Yostar's promotional video for the Code of Brawl event for Yostar's 2019 mobile tower defense gacha game <i>Arknights</i>.",
+        "icon": "/music/icons/speedoflight2.png",
+        "desc": "The song from Hypergryph and Yostar's promotional video for the Code of Brawl event for Hypergryph's 2019 mobile tower defense gacha game <i>Arknights</i>.",
         "path": "/music/speedoflight",
         "completed": false
     },    

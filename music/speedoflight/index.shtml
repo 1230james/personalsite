@@ -13,7 +13,7 @@
     <main class="container-fluid" role="main" id="content">
         <h2 class="big textcenter">Speed of Light</h2>
         <h2 class="textcenter"><i>Arknights</i></h2>
-        <div class="textcenter"><img src="/music/icons/speedoflight.png" style="max-width: 250px;" alt=""/></div>
+        <div class="textcenter"><img src="/music/icons/speedoflight2.png" style="max-width: 250px;" alt=""/></div>
         <hr/>
         <section>
             <h3 class="textcenter">Information</h3>
@@ -21,7 +21,7 @@
                 <h4 class="textcenter">Song Details</h4>
                 <div class="row">
                     <div class="col-lg-6">
-                        <p class="indent">The song from Yostar's promotional video for the Code of Brawl event for Yostar's 2019 mobile tower defense gacha game <i>Arknights</i>.<br/><br/><i>Arknights</i> is free to play, and can be found on the <a href='https://apps.apple.com/us/app/arknights/id1464872022' target="_blank" rel="noopener noreferrer external">iOS App Store</a> and <a href='https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights' target="_blank" rel="noopener noreferrer external">Google Play Store</a>.</p>
+                        <p class="indent">The song from Hypergryph and Yostar's promotional video for the Code of Brawl event for Hypergryph's 2019 mobile tower defense gacha game <i>Arknights</i>.<br/><br/><i>Arknights</i> is free to play, and can be found on the <a href='https://apps.apple.com/us/app/arknights/id1464872022' target="_blank" rel="noopener noreferrer external">iOS App Store</a> and <a href='https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights' target="_blank" rel="noopener noreferrer external">Google Play Store</a>.</p>
                     </div>
                     <div class="col-lg-6">
                         <ul>
@@ -47,8 +47,8 @@
                     <div class="col-lg-6">
                         <p class="textcenter" style="margin-bottom: 0px;">Credit goes to:</p>
                         <ul>
-                            <li>DJ Okawari and Yostar for the original song transcribed.</li>
-                            <li>Yostar for the art used.</li>
+                            <li>DJ Okawari and Hypergryph for the original song transcribed.</li>
+                            <li>Hypergryph for the art used.</li>
                         </ul>
                     </div>
                 </div>
