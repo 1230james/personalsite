@@ -20,15 +20,15 @@
                 <div class="row">
                     <div class="col-xs-6 col-md-6">
                         <h3 class="textcenter"><b><u>Featured Work</u></b></h3>
-                        <h4 class="textcenter">Rail Romanesque</h4>
-                        <div class="mx-auto textcenter"><a href="/music/railromanesque"><img src="/music/icons/railromanesque.png" alt="Click to view sheet music details"/></a></div>
-                        <p class="textcenter">The main theme for Lose's 2016 visual novel <i>Maitetsu</i>, played during the opening for Hachiroku's route and the trailer.</p>
-                    </div>
-                    <div class="col-xs-6 col-md-6">
-                        <h3 class="textcenter"><b><u>Most Recent</u></b></h3>
                         <h4 class="textcenter">Motteke! Sailor Fuku</h4>
                         <div class="mx-auto textcenter"><a href="/music/mottekesailorfuku"><img src="/music/icons/serafuku.png" alt="Click to view sheet music details"/></a></div>
                         <p class="textcenter">The opening theme song for Kyoto Animation's 2007 anime adaptation of Kagami Yoshimizu's comic strip <i>Lucky Star</i>.</p>
+                    </div>
+                    <div class="col-xs-6 col-md-6">
+                        <h3 class="textcenter"><b><u>Most Recent</u></b></h3>
+                        <h4 class="textcenter">Speed of Light</h4>
+                        <div class="mx-auto textcenter"><a href="/music/speedoflight"><img src="/music/icons/speedoflight2.png" alt="Click to view sheet music details"/></a></div>
+                        <p class="textcenter">The song from Hypergryph and Yostar's promotional video for the Code of Brawl event for Hypergryph's 2019 mobile tower defense gacha game <i>Arknights</i>.</p>
                     </div>
                 </div>
             </div>

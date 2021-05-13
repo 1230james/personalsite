@@ -35,18 +35,18 @@
         "desc": "One of the three types of the song Joint Reasoning: The Great Deduction from Capcom's 2017 game <i>The Great Ace Attorney</i>.",
         "path": "/music/jointreasoning",
         "completed": false
-    }, {
-        "name": "Speed of Light", "origin": "Arknights",
-        "icon": "/music/icons/speedoflight2.png",
-        "desc": "The song from Hypergryph and Yostar's promotional video for the Code of Brawl event for Hypergryph's 2019 mobile tower defense gacha game <i>Arknights</i>.",
-        "path": "/music/speedoflight",
-        "completed": false
-    },    
+    },   
     
     
     
     
     {
+        "name": "Speed of Light", "origin": "Arknights",
+        "icon": "/music/icons/speedoflight2.png",
+        "desc": "The song from Hypergryph and Yostar's promotional video for the Code of Brawl event for Hypergryph's 2019 mobile tower defense gacha game <i>Arknights</i>.",
+        "path": "/music/speedoflight",
+        "completed": true
+    }, {
         "name": "Motteke! Sailor Fuku", "origin": "Lucky Star",
         "icon": "/music/icons/serafuku.png",
         "desc": "The opening theme song for Kyoto Animation's 2007 anime adaptation of Kagami Yoshimizu's comic strip <i>Lucky Star</i>.",
