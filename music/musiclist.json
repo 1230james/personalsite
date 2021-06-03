@@ -41,6 +41,12 @@
     
     
     {
+        "name": "Light", "origin": "Lucy - The Eternity She Wished For -",
+        "icon": "/music/icons/lucylight.png",
+        "desc": "The special main menu music for M-Vizlab's 2016 visual novel <i>Lucy - The Eternity She Wished For -</i> that plays once the true ending is viewed.",
+        "path": "/music/light",
+        "completed": true
+    }, {
         "name": "Speed of Light", "origin": "Arknights",
         "icon": "/music/icons/speedoflight2.png",
         "desc": "The song from Hypergryph and Yostar's promotional video for the Code of Brawl event for Hypergryph's 2019 mobile tower defense gacha game <i>Arknights</i>.",

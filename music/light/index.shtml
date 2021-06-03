@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Light - 1230james's Website</title>
+    <meta charset="UTF-8"/>
+    <!--#include virtual="/headcommon.html" -->
+</head>
+
+<body>
+    <!--#include virtual="/headernav.html" -->
+    
+    <main class="container-fluid" role="main" id="content">
+        <h2 class="big textcenter">Light</h2>
+        <h2 class="textcenter"><i>Lucy - The Eternity She Wished For -</i></h2>
+        <div class="textcenter"><img src="/music/icons/lucylight.png" style="max-width: 250px;" alt=""/></div>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Information</h3>
+            <div class="container-fluid">
+                <h4 class="textcenter">Song Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <p class="indent">The special main menu music for M-Vizlab's 2016 visual novel <i>Lucy - The Eternity She Wished For -</i> that plays once the true ending is viewed.<br/><br/>This visual novel is really underrated, and I highly recommend reading it. You can purchase a digital copy on <a href="https://store.steampowered.com/app/430960/Lucy_The_Eternity_She_Wished_For/" target="_blank" rel="noopener noreferrer external">Steam</a>.</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Name: Light</li>
+                            <li>Source: Lucy - The Eternity She Wished For -</li>
+                            <li>Composer: 이승환 (Seunghwan Lee)</li>
+                            <li>Released: 2016</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="container-fluid">
+                <h4 class="textcenter">Transcription Details</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <ul>
+                            <li>Released: June 3, 2021</li>
+                            <li>Length: 2m4s - 24 measures</li>
+                            <li>Instruments: 5</li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6">
+                        <p class="textcenter" style="margin-bottom: 0px;">Credit goes to:</p>
+                        <ul>
+                            <li>Seunghwan Lee for the original song transcribed.</li>
+                            <li>Defender (디펜더) for the art used.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Download</h3>
+            <div class="mx-auto textcenter">
+                <a class="btn btn-primary" href="/music/archives/Light.zip" class="nosmoothnav" download>Download ZIP</a>
+                <p class="textcenter">File size: 4.07 MB</p>
+                <div class="mx-auto">
+                    <h4 class="textcenter">Archive Contents</h4>
+                    <p><b>MP3</b> recording to listen on any MP3 player.
+                    <br/><b>MIDI</b> file for playback on your favorite player.
+                    <br/><b>PDFs</b> of each part and the master score.
+                    <br/><b>MSCZ</b> file for sharing & remixing in MuseScore.</p>
+                </div>
+                <p>Published under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer external">CC BY-NC-SA 4.0</a>.</p>
+            </div>
+        </section>
+        <hr/>
+        <section>
+            <h3 class="textcenter">Video</h3>
+            <div class="mx-auto textcenter">
+                <div class="videoWrapper"><div class="videoContainer">
+                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/Ug9MnzXRoZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div></div>
+            </div>
+        </section>
+        <hr/>
+        <div class="mx-auto textcenter"><a class="btn btn-primary" href="/music">Return to Sheet Music Home</a></div>
+    </main>
+    
+    <!--#if expr="%{DOCUMENT_ROOT} =~ m#(website)#" -->
+        <!--#include virtual="/footer.html" -->
+    <!--#else -->
+        <!--#include virtual="/devfooter.html" -->
+    <!--#endif -->
+</body>
+
+</html>
