@@ -41,6 +41,12 @@
     
     
     {
+        "name": "Art of Blade", "origin": "Arknights",
+        "icon": "/music/icons/artofblade.png",
+        "desc": "The background music played in the Contingency Contract #2 lobby in Hypergryph's 2019 mobile tower defense gacha game <i>Arknights</i>.",
+        "path": "/music/artofblade",
+        "completed": true
+    }, {
         "name": "Light", "origin": "Lucy - The Eternity She Wished For -",
         "icon": "/music/icons/lucylight.png",
         "desc": "The special main menu music for M-Vizlab's 2016 visual novel <i>Lucy - The Eternity She Wished For -</i> that plays once the true ending is viewed.",

@@ -26,9 +26,9 @@
                     </div>
                     <div class="col-xs-6 col-md-6">
                         <h3 class="textcenter"><b><u>Most Recent</u></b></h3>
-                        <h4 class="textcenter">Light</h4>
-                        <div class="mx-auto textcenter"><a href="/music/light"><img src="/music/icons/lucylight.png" alt="Click to view sheet music details"/></a></div>
-                        <p class="textcenter">The special main menu music for M-Vizlab's 2016 visual novel <i>Lucy - The Eternity She Wished For -</i> that plays once the true ending is viewed.</p>
+                        <h4 class="textcenter">Art of Blade</h4>
+                        <div class="mx-auto textcenter"><a href="/music/artofblade"><img src="/music/icons/artofblade.png" alt="Click to view sheet music details"/></a></div>
+                        <p class="textcenter">The background music played in the Contingency Contract #2 lobby in Hypergryph's 2019 mobile tower defense gacha game <i>Arknights</i>.</p>
                     </div>
                 </div>
             </div>
