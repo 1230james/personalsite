@@ -20,21 +20,21 @@
                 <div class="row">
                     <div class="col-xs-6 col-md-6">
                         <h3 class="textcenter"><b><u>Featured Work</u></b></h3>
-                        <h4 class="textcenter">Motteke! Sailor Fuku</h4>
-                        <div class="mx-auto textcenter"><a href="/music/mottekesailorfuku"><img src="/music/icons/serafuku.png" alt="Click to view sheet music details"/></a></div>
-                        <p class="textcenter">The opening theme song for Kyoto Animation's 2007 anime adaptation of Kagami Yoshimizu's comic strip <i>Lucky Star</i>.</p>
-                    </div>
-                    <div class="col-xs-6 col-md-6">
-                        <h3 class="textcenter"><b><u>Most Recent</u></b></h3>
                         <h4 class="textcenter">Art of Blade</h4>
                         <div class="mx-auto textcenter"><a href="/music/artofblade"><img src="/music/icons/artofblade.png" alt="Click to view sheet music details"/></a></div>
                         <p class="textcenter">The background music played in the Contingency Contract #2 lobby in Hypergryph's 2019 mobile tower defense gacha game <i>Arknights</i>.</p>
                     </div>
+                    <div class="col-xs-6 col-md-6">
+                        <h3 class="textcenter"><b><u>Most Recent</u></b></h3>
+                        <h4 class="textcenter">Rule The World</h4>
+                        <div class="mx-auto textcenter"><a href="/music/ruletheworld"><img src="/music/icons/ruletheworld.png" alt="Click to view sheet music details"/></a></div>
+                        <p class="textcenter">One of the background tracks and the main menu track for Paradox Interactive's society-building economic strategy game <i>Victoria 3</i>.</p>
+                    </div>
                 </div>
             </div>
             <hr style="width:100%;"/>
-            <p class="indent"><em>No profits</em> are made from any of my works, nor do I ever intend to. Music transcription is purely a passion project/hobby I enjoy doing with songs I love listening to alongside my other hobbies. All my works are available to the public free of charge.</p>
-            <p class="indent">While it is not required, I highly recommend you (1) check out the sources for the songs I transcribe to help out the original creators, and (2) share this page and/or my works with other people. It makes me happy knowing that there are people out there who are listening to what I've done.</p>
+            <p class="indent"><em>No profits</em> are made from any of my works directly, nor do I ever intend to. Music transcription is purely a passion project/hobby I enjoy doing with songs I love listening to alongside my other hobbies. All my works are available to the public free of charge.</p>
+            <p class="indent">If you'd like to show your support, please (1) check out the sources for the songs I transcribe to help out the original creators, and (2) share this page and/or my works with other people. It makes me happy knowing that there are people out there who are listening to what I've done. If that isn't enough for you, feel free to stop by my <a href="https://ko-fi.com/1230james" target="_blank" rel="noopener noreferrer external">Ko-fi page</a>. Anything you can do to support artists and myself is greatly appreciated!</p>
             <p class="textcenter"><b>Except where explicitly stated otherwise, each work is published here and licensed to you under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer external">CC BY-NC-SA 4.0</a>.</b></p>
         </section>
         <hr/>
