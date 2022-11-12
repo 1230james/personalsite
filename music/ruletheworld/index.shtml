@@ -58,7 +58,7 @@
         <section>
             <h3 class="textcenter">Download</h3>
             <div class="mx-auto textcenter">
-                <a class="btn btn-primary" href="/music/archives/Rule The World.zip" class="nosmoothnav" download>Download 7z</a>
+                <a class="btn btn-primary" href="/music/archives/Rule The World.7z" class="nosmoothnav" download>Download 7z</a>
                 <p class="textcenter">File size: 11.7 MB</p>
                 <div class="mx-auto">
                     <h4 class="textcenter">Archive Contents</h4>
