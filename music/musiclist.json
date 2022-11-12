@@ -4,43 +4,55 @@
         "icon": "/music/icons/eca.png",
         "desc": "The song from the cutscene from the attraction mode of the 1999 Sega arcade game <i>Emergency Call Ambulance</i>.",
         "path": "/music/eca",
-        "completed": false
+        "completed": false,
+        "hide": true
     }, {
         "name": "Wings of Courage", "origin": "Ao no Kanata no Four Rhythm",
         "icon": "/music/icons/woc.png",
         "desc": "The song from the opening for Sprite's visual novel <i>Aokana: Four Rhythms Across the Blue</i>.",
         "path": "/music/wingsofcourage",
-        "completed": false
+        "completed": false,
+        "hide": true
     }, {
         "name": "未来行き☆列車 / Train☆to the Future", "origin": "Maitetsu",
         "icon": "/music/icons/traintothefuture.png",
         "desc": "The opening for the grand route of Lose's 2016 visual novel <i>Maitetsu</i>.",
         "path": "/music/traintothefuture",
-        "completed": false
+        "completed": false,
+        "hide": true
     }, {
         "name": "Main Theme (Emergency 4)", "origin": "Emergency 4",
         "icon": "/music/icons/em4.png",
         "desc": "The main menu theme from Sixteen Tons Entertainment's video game <i>Emergency 4: Global Fighters for Life</i>.",
         "path": "/music/em4",
-        "completed": false
+        "completed": false,
+        "hide": true
     }, {
         "name": "Hot Chocolate", "origin": "The Polar Express",
         "icon": "/music/icons/hotchocolate.png",
         "desc": "The song sung during the hot chocolate scene from the 2004 film <i>The Polar Express</i>.",
         "path": "/music/hotchocolate",
-        "completed": false
+        "completed": false,
+        "hide": true
     }, {
         "name": "Joint Reasoning: The Great Deduction (Type A)", "origin": "The Great Ace Attorney",
         "icon": "/music/icons/jointreasoning.png",
         "desc": "One of the three types of the song Joint Reasoning: The Great Deduction from Capcom's 2017 game <i>The Great Ace Attorney</i>.",
         "path": "/music/jointreasoning",
-        "completed": false
+        "completed": false,
+        "hide": true
     },   
     
     
     
     
     {
+        "name": "Rule The World", "origin": "Victoria 3",
+        "icon": "/music/icons/ruletheworld.png",
+        "desc": "One of the background tracks and the main menu track for Paradox Interactive's society-building economic strategy game <i>Victoria 3</i>.",
+        "path": "/music/ruletheworld",
+        "completed": true
+    }, {
         "name": "Art of Blade", "origin": "Arknights",
         "icon": "/music/icons/artofblade.png",
         "desc": "The background music played in the Contingency Contract #2 lobby in Hypergryph's 2019 mobile tower defense gacha game <i>Arknights</i>.",

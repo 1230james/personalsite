@@ -24,6 +24,9 @@ Snippet of sample of intended HTML for each song container
 // This is approaching useless encapsulation territory, but I\"ll try to justify
 // to myself it with code readability.
 module.exports = function(obj) {
+    if (obj.hide) {
+        return "";
+    }
     return "<li><a href=\"#" + obj.name.split(" ").join("") + "\">" + obj.name +
         "</a></li>";
 }

@@ -33,8 +33,12 @@ Sample of intended HTML for each song container
 // The idea: We're gonna start from the inside (i.e. deepest layer) and then
 // work our way outwards to make the string concatenation look less disgusting.
 module.exports = function(obj) {
+    if (obj.hide) {
+        return "";
+    }
+    
     // the button container with the View Info button
-    let buttonDiv = "<div class=\"mx-auto textcenter\">" // I\"m about to do something mildly stupid
+    let buttonDiv = "<div class=\"mx-auto textcenter\">" // I'm about to do something mildly stupid
         + "<a class=\"btn btn-primary\" href=\""+ obj.path + "\">View Info</a>"
         + "</div>";
     
