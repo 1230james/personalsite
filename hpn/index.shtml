@@ -28,17 +28,19 @@
             </ul>
             <h3>Non-Roblox</h3>
             <ul>
-                <li>JavaFarmer</li>
+                <li>n/a</li>
             </ul>
         </section>
         <hr/>
         <section>
             <h2 class="textcenter">Documentation</h2>
             <p class="textcenter">Published documentation for HPN projects, if available, can be found here.<br/>Documentation for non-HPN-related projects can be found under <a href="/programming">Programming Projects</a>.</p>
+            <!--
             <h3>Javadocs</h3>
             <ul>
                 <li><a href="/javadocs/javafarmer">JavaFarmer</a></li>
             </ul>
+            -->
         </section>
     </main>
     
