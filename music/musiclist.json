@@ -47,6 +47,12 @@
     
     
     {
+        "name": "Planned Perfection", "origin": "Umamusume: Pretty Derby",
+        "icon": "/music/icons/plannedperfection.png",
+        "desc": "Riko Kashimoto's leitmotif from Cygames's horseracing sports management game <i>Umamusume: Pretty Derby</i>.",
+        "path": "/music/plannedperfection",
+        "completed": true
+    }, {
         "name": "Rule The World", "origin": "Victoria 3",
         "icon": "/music/icons/ruletheworld.png",
         "desc": "One of the background tracks and the main menu track for Paradox Interactive's society-building economic strategy game <i>Victoria 3</i>.",
