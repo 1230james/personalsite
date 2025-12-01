@@ -39,7 +39,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <ul>
-                            <li>Released: November 24, 2025</li>
+                            <li>Released: November 30, 2025</li>
                             <li>Length: 3m14s - 49 measures</li>
                             <li>Instruments: 10</li>
                         </ul>
@@ -75,7 +75,11 @@
             <h3 class="textcenter">Video</h3>
             <div class="mx-auto textcenter">
                 <div class="videoWrapper"><div class="videoContainer">
-                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/Z_Nav7Ey6o8" frameborder="0" allow=allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/L2nk93u8tR8" frameborder="0" allow=allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div></div>
+                <br/>
+                <div class="videoWrapper"><div class="videoContainer">
+                    <iframe width="1518" height="558" src="https://www.youtube.com/embed/hysKrpdRyvU" frameborder="0" allow=allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div></div>
             </div>
         </section>
